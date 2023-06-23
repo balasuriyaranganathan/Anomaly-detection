@@ -1,0 +1,1191 @@
+No.,Time,Source,Destination,Protocol,Length,Info
+1,0,142.250.192.106,10.12.35.246,TCP,66,443  >  52411 [ACK] Seq=1 Ack=1 Win=294 Len=0 SLE=0 SRE=1
+2,0.003683,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+3,0.003715,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+4,0.024116,10.12.35.246,172.217.166.46,TCP,55,52402  >  443 [ACK] Seq=1 Ack=1 Win=512 Len=1 [TCP segment of a reassembled PDU]
+5,0.105438,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.63.254
+6,0.116522,172.217.166.46,10.12.35.246,TCP,66,443  >  52402 [ACK] Seq=1 Ack=2 Win=305 Len=0 SLE=1 SRE=2
+7,0.207649,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.53.202? Tell 10.12.63.254
+8,0.207687,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.189? Tell 10.12.32.1
+9,0.207696,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.171? Tell 10.12.32.1
+10,0.207704,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.25? Tell 10.12.32.1
+11,0.20996,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.32.1
+12,0.209977,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.32.1
+13,0.209986,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.89? Tell 10.12.32.1
+14,0.209993,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+15,0.210001,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.61? Tell 10.12.32.1
+16,0.212498,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+17,0.212518,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.102? Tell 10.12.32.1
+18,0.212526,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+19,0.212533,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.48.196? Tell 10.12.32.1
+20,0.21254,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+21,0.212546,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+22,0.212552,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+23,0.214872,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.121? Tell 10.12.32.1
+24,0.412926,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+25,0.41296,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.53? Tell 10.12.63.254
+26,0.514624,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+27,0.51465,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+28,0.608339,10.12.35.246,142.250.192.106,TCP,55,52412  >  443 [ACK] Seq=1 Ack=1 Win=510 Len=1 [TCP segment of a reassembled PDU]
+29,0.950715,142.250.192.106,10.12.35.246,TCP,66,443  >  52412 [ACK] Seq=1 Ack=2 Win=294 Len=0 SLE=1 SRE=2
+30,0.954963,10.12.35.246,142.250.199.174,TCP,55,52410  >  443 [ACK] Seq=1 Ack=1 Win=510 Len=1 [TCP segment of a reassembled PDU]
+31,1.222712,10.12.35.246,172.217.166.14,TCP,55,52385  >  443 [ACK] Seq=1 Ack=1 Win=257 Len=1 [TCP segment of a reassembled PDU]
+32,1.287149,142.250.199.174,10.12.35.246,TCP,66,443  >  52410 [ACK] Seq=1 Ack=2 Win=265 Len=0 SLE=1 SRE=2
+33,1.333755,10.12.35.246,142.250.199.174,TCP,55,52413  >  443 [ACK] Seq=1 Ack=1 Win=512 Len=1 [TCP segment of a reassembled PDU]
+34,1.636156,172.217.166.14,10.12.35.246,TCP,66,443  >  52385 [ACK] Seq=1 Ack=2 Win=297 Len=0 SLE=1 SRE=2
+35,1.640923,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.177? Tell 10.12.63.254
+36,1.668844,142.250.199.174,10.12.35.246,TCP,66,443  >  52413 [ACK] Seq=1 Ack=2 Win=446 Len=0 SLE=1 SRE=2
+37,1.84841,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+38,1.848568,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.101? Tell 10.12.63.254
+39,1.872487,10.12.35.246,172.217.166.14,TCP,55,52408  >  443 [ACK] Seq=1 Ack=1 Win=509 Len=1 [TCP segment of a reassembled PDU]
+40,1.947019,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+41,1.947049,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.144? Tell 10.12.32.1
+42,2.254355,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+43,2.254384,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.48.196? Tell 10.12.32.1
+44,2.254392,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+45,2.254399,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+46,2.256185,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+47,2.256199,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.121? Tell 10.12.32.1
+48,2.256207,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+49,2.256212,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+50,2.266389,172.217.166.14,10.12.35.246,TCP,66,443  >  52408 [ACK] Seq=1 Ack=2 Win=277 Len=0 SLE=1 SRE=2
+51,2.581302,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+52,2.58133,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+53,2.616496,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+54,2.631202,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+55,2.646664,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+56,2.884929,172.17.2.79,224.0.0.251,MDNS,214,"Standard query response 0x0000 PTR switcha46cd6-26._http._tcp.local SRV 0 0 80 MtechBiomedical-2-79-40.local TXT A, cache flush 172.17.2.79"
+57,2.889547,172.17.1.75,224.0.0.251,MDNS,221,"Standard query response 0x0000 PTR switch2a9f12-2._http._tcp.local SRV 0 0 80 Aerospace-Workshop-SG500-1-75-1.local TXT A, cache flush 172.17.1.75"
+58,2.889618,172.17.2.131,224.0.0.251,MDNS,224,"Standard query 0x0000 ANY switcha473dc-47._http._tcp.local, ""QU"" question ANY Mtech-Block-GF-92.local, ""QU"" question SRV 0 0 80 Mtech-Block-GF-92.local TXT A 172.17.2.131"
+59,2.889661,172.17.2.69,224.0.0.251,MDNS,265,"Standard query 0x0000 ANY switch337fb5-2._http._tcp.local, ""QU"" question ANY AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local, ""QU"" question SRV 0 0 80 AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local TXT A 172.17.2.69"
+60,3.040167,10.12.35.246,52.137.103.130,TCP,54,"52316  >  443 [FIN, ACK] Seq=1 Ack=1 Win=256 Len=0"
+61,3.135444,10.12.35.246,172.217.166.14,TCP,55,52409  >  443 [ACK] Seq=1 Ack=1 Win=510 Len=1 [TCP segment of a reassembled PDU]
+62,3.217306,172.17.1.12,224.0.0.251,MDNS,259,"Standard query 0x0000 ANY switcha015c9-22._https._tcp.local, ""QU"" question ANY AB1-GF-Reprographic-Centre-1-12-24.local, ""QU"" question SRV 0 0 443 AB1-GF-Reprographic-Centre-1-12-24.local TXT A 172.17.1.12"
+63,3.217415,172.17.1.48,224.0.0.251,MDNS,248,"Standard query 0x0000 ANY switch56b971-1._https._tcp.local, ""QU"" question ANY AB1-MechFacRoom1-SG500-1-48-2.local, ""QU"" question SRV 0 0 443 AB1-MechFacRoom1-SG500-1-48-2.local TXT A 172.17.1.48"
+64,3.217469,172.17.1.14,224.0.0.251,MDNS,175,"Standard query response 0x0000 PTR switch2d7b48-1._telnet._tcp.local SRV 0 0 23 AB1-CADCAM-MtechLab-SG300-1-14-1.local A, cache flush 172.17.1.14"
+65,3.217513,172.17.1.38,224.0.0.251,MDNS,217,"Standard query response 0x0000 PTR switcha024bd-27._https._tcp.local SRV 0 0 443 AB1-FF-HR-Dept-SG300-1-38.local TXT A, cache flush 172.17.1.38"
+66,3.221341,172.17.2.65,224.0.0.251,MDNS,152,"Standard query response 0x0000 PTR switcha470b0-49._ssh._tcp.local SRV 0 0 22 ECE-Dept-97.local A, cache flush 172.17.2.65"
+67,3.221465,172.17.1.18,224.0.0.251,MDNS,224,"Standard query response 0x0000 PTR switch9118fd-4._https._tcp.local SRV 0 0 443 AB1-CADCAM-Btech-Lab-SG300-1-18-2.local TXT A, cache flush 172.17.1.18"
+68,3.221514,172.17.1.75,224.0.0.251,MDNS,171,"Standard query response 0x0000 PTR switch2a9f12-2._ssh._tcp.local SRV 0 0 22 Aerospace-Workshop-SG500-1-75-1.local A, cache flush 172.17.1.75"
+69,3.221552,172.17.1.64,224.0.0.251,MDNS,251,"Standard query 0x0000 ANY switch2d716d-15._https._tcp.local, ""QU"" question ANY AB1-Language-Lab-SG500-1-64-41.local, ""QU"" question SRV 0 0 443 AB1-Language-Lab-SG500-1-64-41.local TXT A 172.17.1.64"
+70,3.223105,172.17.2.131,224.0.0.251,MDNS,174,"Standard query 0x0000 ANY switcha473dc-47._ssh._tcp.local, ""QU"" question ANY Mtech-Block-GF-92.local, ""QU"" question SRV 0 0 22 Mtech-Block-GF-92.local A 172.17.2.131"
+71,3.223195,172.17.2.139,224.0.0.251,MDNS,281,"Standard query 0x0000 ANY switch8ef3b4-39._https._tcp.local, ""QU"" question ANY AB2-Mtech-blk-CyberSecurityLab-SG300-2-139-33.local, ""QU"" question SRV 0 0 443 AB2-Mtech-blk-CyberSecurityLab-SG300-2-139-33.local TXT A 172.17.2.139"
+72,3.223226,172.17.2.191,224.0.0.251,MDNS,249,"Standard query 0x0000 ANY switch56bb5e-20._https._tcp.local, ""QU"" question ANY AATC-LAB-CISCO-SG500-2-191-34.local, ""QU"" question SRV 0 0 443 AATC-LAB-CISCO-SG500-2-191-34.local TXT A 172.17.2.191"
+73,3.223252,172.17.1.143,224.0.0.251,MDNS,195,"Standard query 0x0000 ANY switch017565-30._telnet._tcp.local, ""QU"" question ANY AshramKudil-SG300-1-143-40.local, ""QU"" question SRV 0 0 23 AshramKudil-SG300-1-143-40.local A 172.17.1.143"
+74,3.223279,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.134? Tell 10.12.32.1
+75,3.223286,172.17.2.69,224.0.0.251,MDNS,215,"Standard query 0x0000 ANY switch337fb5-2._ssh._tcp.local, ""QU"" question ANY AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local, ""QU"" question SRV 0 0 22 AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local A 172.17.2.69"
+76,3.223308,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.150? Tell 10.12.32.1
+77,3.225893,172.17.2.151,224.0.0.251,MDNS,202,"Standard query 0x0000 ANY switcha46b97-5._telnet._tcp.local, ""QU"" question ANY AB3--CSE-CTS-Lab-SG300-2-151-1.local, ""QU"" question SRV 0 0 23 AB3--CSE-CTS-Lab-SG300-2-151-1.local A 172.17.2.151"
+78,3.226009,172.17.1.84,224.0.0.251,MDNS,243,"Standard query 0x0000 ANY switch337f24-32._https._tcp.local, ""QU"" question ANY OpenAirAuditorium-SG500-36.local, ""QU"" question SRV 0 0 443 OpenAirAuditorium-SG500-36.local TXT A 172.17.1.84"
+79,3.226057,172.17.1.85,224.0.0.251,MDNS,395,"Standard query 0x0000 ANY switcha036fa-24._csco-sb._tcp.local, ""QU"" question ANY Epabx-Room-1-85-32.local, ""QU"" question SRV 0 0 80 Epabx-Room-1-85-32.local TXT A 172.17.1.85"
+80,3.226094,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+81,3.226105,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.105? Tell 10.12.32.1
+82,3.226111,172.17.2.23,224.0.0.251,MDNS,238,"Standard query 0x0000 ANY switch8613b9-1._https._tcp.local, ""QU"" question ANY ITLAB-FF-CiscoSG300-2-22.local, ""QU"" question SRV 0 0 443 ITLAB-FF-CiscoSG300-2-22.local TXT A 172.17.2.23"
+83,3.226165,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+84,3.228298,172.17.2.133,224.0.0.251,MDNS,207,"Standard query 0x0000 ANY switch015709-58._telnet._tcp.local, ""QU"" question ANY Mtech-Blk-FF-EEE-Faculty-Room-85.local, ""QU"" question SRV 0 0 23 Mtech-Blk-FF-EEE-Faculty-Room-85.local A 172.17.2.133"
+85,3.22841,172.17.2.137,224.0.0.251,MDNS,219,"Standard query 0x0000 ANY switch998a19-44._telnet._tcp.local, ""QU"" question ANY AB2-MtechBlk-SocialWork-SF-SG300-2-137.local, ""QU"" question SRV 0 0 23 AB2-MtechBlk-SocialWork-SF-SG300-2-137.local A 172.17.2.137"
+86,3.577621,172.217.166.14,10.12.35.246,TCP,66,443  >  52409 [ACK] Seq=1 Ack=2 Win=522 Len=0 SLE=1 SRE=2
+87,3.585295,172.17.2.83,224.0.0.251,MDNS,226,"Standard query 0x0000 ANY switch56c0b1-2._telnet._tcp.local, ""QU"" question ANY AB2-Basic-Electr-Lab-F-Blk-GF-SG500-2-80-8.local, ""QU"" question SRV 0 0 23 AB2-Basic-Electr-Lab-F-Blk-GF-SG500-2-80-8.local A 172.17.2.83"
+88,3.585388,172.17.1.110,224.0.0.251,MDNS,203,"Standard query 0x0000 ANY switch338216-23._telnet._tcp.local, ""QU"" question ANY ASB-SF-Placement-Cell-1-110-43.local, ""QU"" question SRV 0 0 23 ASB-SF-Placement-Cell-1-110-43.local A 172.17.1.110"
+89,3.585422,172.17.1.55,224.0.0.251,MDNS,250,"Standard query 0x0000 ANY switch017874-2._https._tcp.local, ""QU"" question ANY AB1-CivilDept-SF-SG300-1-55-15.local, ""QU"" question SRV 0 0 443 AB1-CivilDept-SF-SG300-1-55-15.local TXT A 172.17.1.55"
+90,3.587308,172.17.1.31,224.0.0.251,MDNS,200,"Standard query 0x0000 ANY switchc3ee72-56._ssh._tcp.local, ""QU"" question ANY AB1-ComputerLab1-SG300-1-31-64.local, ""QU"" question SRV 0 0 22 AB1-ComputerLab1-SG300-1-31-64.local A 172.17.1.31"
+91,3.587406,172.17.2.167,224.0.0.251,MDNS,443,"Standard query 0x0000 ANY switchc3dd00-2._csco-sb._tcp.local, ""QU"" question ANY AB3-CSE-Faculty-Room-SG300-2-167-1.local, ""QU"" question SRV 0 0 80 AB3-CSE-Faculty-Room-SG300-2-167-1.local TXT A 172.17.2.167"
+92,3.587442,172.17.2.159,224.0.0.251,MDNS,257,"Standard query 0x0000 ANY switch2a94e0-10._https._tcp.local, ""QU"" question ANY AB3-B-Blk-GF-CSE-Faculty-2-159-32.local, ""QU"" question SRV 0 0 443 AB3-B-Blk-GF-CSE-Faculty-2-159-32.local TXT A 172.17.2.159"
+93,3.587472,172.17.2.125,224.0.0.251,MDNS,437,"Standard query 0x0000 ANY switch56b937-1._csco-sb._tcp.local, ""QU"" question ANY Science-Research-Lab-2-129-2.local, ""QU"" question SRV 0 0 80 Science-Research-Lab-2-129-2.local TXT A 172.17.2.125"
+94,3.587504,172.17.1.42,224.0.0.251,MDNS,249,"Standard query 0x0000 ANY switch56b98e-2._http._tcp.local, ""QU"" question ANY AB1-UnivOffice-FF-SG500-1-42-2.local, ""QU"" question SRV 0 0 80 AB1-UnivOffice-FF-SG500-1-42-2.local TXT A 172.17.1.42"
+95,3.58977,172.17.1.120,224.0.0.251,MDNS,211,"Standard query 0x0000 ANY switch919c48._http._tcp.local, ""QU"" question ANY switch919c48.local, ""QU"" question SRV 0 0 80 switch919c48.local TXT A 172.17.1.120"
+96,3.589884,172.17.1.32,224.0.0.251,MDNS,203,"Standard query 0x0000 ANY switch91aa1a-41._telnet._tcp.local, ""QM"" question ANY AB1-ComputerLab1-SG300-1-32-54.local, ""QM"" question SRV 0 0 23 AB1-ComputerLab1-SG300-1-32-54.local A 172.17.1.32"
+97,3.589937,172.17.2.74,224.0.0.251,MDNS,440,"Standard query 0x0000 ANY switch9182ae-2._csco-sb._tcp.local, ""QM"" question ANY AB2-D-Blk-GF-Microprocessor-Lab-5.local, ""QM"" question SRV 0 0 80 AB2-D-Blk-GF-Microprocessor-Lab-5.local TXT A 172.17.2.74"
+98,3.591761,172.17.2.75,224.0.0.251,MDNS,254,"Standard query 0x0000 ANY switch918257-3._https._tcp.local, ""QU"" question ANY AB2-D-Blk-GF-Microprocessor-Lab1.local, ""QU"" question SRV 0 0 443 AB2-D-Blk-GF-Microprocessor-Lab1.local TXT A 172.17.2.75"
+99,3.591841,172.17.2.22,224.0.0.251,MDNS,242,"Standard query 0x0000 ANY switch81f61d._https._tcp.local, ""QU"" question ANY ITLAB-FF-CiscoSG300-2-22-19.local, ""QU"" question SRV 0 0 443 ITLAB-FF-CiscoSG300-2-22-19.local TXT A 172.17.2.22"
+100,3.591885,172.17.1.35,224.0.0.251,MDNS,206,"Standard query 0x0000 ANY switcha018d8-18._ssh._tcp.local, ""QU"" question ANY AB1-MechDeptLibrary-SG300-1-35-37.local, ""QU"" question SRV 0 0 22 AB1-MechDeptLibrary-SG300-1-35-37.local A 172.17.1.35"
+101,3.591938,172.17.2.78,224.0.0.251,MDNS,413,"Standard query 0x0000 ANY switcha4698d-28._csco-sb._tcp.local, ""QU"" question ANY Mtech-Biomedical-2-78-60.local, ""QU"" question SRV 0 0 80 Mtech-Biomedical-2-78-60.local TXT A 172.17.2.78"
+102,3.591979,172.17.2.101,224.0.0.251,MDNS,193,"Standard query 0x0000 ANY switch56b8c3-19._telnet._tcp.local, ""QU"" question ANY CentralLib-SG500-2-101-31.local, ""QU"" question SRV 0 0 23 CentralLib-SG500-2-101-31.local A 172.17.2.101"
+103,3.59202,172.17.1.83,224.0.0.251,MDNS,220,"Standard query 0x0000 ANY switch3380ba-23._http._tcp.local, ""QU"" question ANY switch3380ba-51.local, ""QU"" question SRV 0 0 80 switch3380ba-51.local TXT A 172.17.1.83"
+104,3.593795,172.17.2.70,224.0.0.251,MDNS,448,"Standard query 0x0000 ANY switch992f96-3._csco-sb._tcp.local, ""QU"" question ANY AB2-C-Blk-GF-Electronic-HW-Lab-2-70.local, ""QU"" question SRV 0 0 80 AB2-C-Blk-GF-Electronic-HW-Lab-2-70.local TXT A 172.17.2.70"
+105,3.593835,172.17.2.79,224.0.0.251,MDNS,189,"Standard query 0x0000 ANY switcha46cd6-26._telnet._tcp.local, ""QU"" question ANY MtechBiomedical-2-79-40.local, ""QU"" question SRV 0 0 23 MtechBiomedical-2-79-40.local A 172.17.2.79"
+106,3.593875,172.17.1.54,224.0.0.251,MDNS,200,"Standard query 0x0000 ANY switch0174f1-4._telnet._tcp.local, ""QU"" question ANY AB1-CivilDept-SF-SG300-1-54-3.local, ""QU"" question SRV 0 0 23 AB1-CivilDept-SF-SG300-1-54-3.local A 172.17.1.54"
+107,3.593912,172.17.1.75,224.0.0.251,MDNS,251,"Standard query 0x0000 ANY switch2a9f12-2._http._tcp.local, ""QU"" question ANY Aerospace-Workshop-SG500-1-75-1.local, ""QU"" question SRV 0 0 80 Aerospace-Workshop-SG500-1-75-1.local TXT A 172.17.1.75"
+108,3.59395,172.17.2.128,224.0.0.251,MDNS,406,"Standard query 0x0000 ANY switch0154a8-3._csco-sb._tcp.local, ""QU"" question ANY Science-Research-Lab2.local, ""QU"" question SRV 0 0 80 Science-Research-Lab2.local TXT A 172.17.2.128"
+109,3.596094,172.17.2.138,224.0.0.251,MDNS,280,"Standard query 0x0000 ANY switch9914bd-25._http._tcp.local, ""QU"" question ANY AB2-Mtech-blk-CyberSecurityLab-SG300-2-138-43.local, ""QU"" question SRV 0 0 80 AB2-Mtech-blk-CyberSecurityLab-SG300-2-138-43.local TXT A 172.17.2.138"
+110,3.596141,172.17.2.65,224.0.0.251,MDNS,212,"Standard query 0x0000 ANY switcha470b0-49._http._tcp.local, ""QU"" question ANY ECE-Dept-97.local, ""QU"" question SRV 0 0 80 ECE-Dept-97.local TXT A 172.17.2.65"
+111,3.596183,172.17.1.51,224.0.0.251,MDNS,437,"Standard query 0x0000 ANY switcha01450-2._csco-sb._tcp.local, ""QU"" question ANY AB1-Multimedia-Room-SG300-1-51-5.local, ""QU"" question SRV 0 0 80 AB1-Multimedia-Room-SG300-1-51-5.local TXT A 172.17.1.51"
+112,3.596223,172.17.1.17,224.0.0.251,MDNS,252,"Standard query 0x0000 ANY switchc3b19d-2._https._tcp.local, ""QU"" question ANY AB1-CADCAM-Btech-Lab-SG300-1-17.local, ""QU"" question SRV 0 0 443 AB1-CADCAM-Btech-Lab-SG300-1-17.local TXT A 172.17.1.17"
+113,3.596261,172.17.1.38,224.0.0.251,MDNS,241,"Standard query 0x0000 ANY switcha024bd-27._https._tcp.local, ""QU"" question ANY AB1-FF-HR-Dept-SG300-1-38.local, ""QU"" question SRV 0 0 443 AB1-FF-HR-Dept-SG300-1-38.local TXT A 172.17.1.38"
+114,3.598133,172.17.1.18,224.0.0.251,MDNS,256,"Standard query 0x0000 ANY switch9118fd-4._https._tcp.local, ""QU"" question ANY AB1-CADCAM-Btech-Lab-SG300-1-18-2.local, ""QU"" question SRV 0 0 443 AB1-CADCAM-Btech-Lab-SG300-1-18-2.local TXT A 172.17.1.18"
+115,3.598175,172.17.1.40,224.0.0.251,MDNS,251,"Standard query 0x0000 ANY switch91198e-23._https._tcp.local, ""QU"" question ANY AB1-AdminOffice-SG300-1-40-402.local, ""QU"" question SRV 0 0 443 AB1-AdminOffice-SG300-1-40-402.local TXT A 172.17.1.40"
+116,3.59821,172.17.2.73,224.0.0.251,MDNS,247,"Standard query 0x0000 ANY switch56b9e5-1._http._tcp.local, ""QU"" question ANY Microprocessor-AB2-SG500-2-73.local, ""QU"" question SRV 0 0 80 Microprocessor-AB2-SG500-2-73.local TXT A 172.17.2.73"
+117,3.598247,172.17.2.13,224.0.0.251,MDNS,382,"Standard query 0x0000 ANY switcha02619-2._csco-sb._tcp.local, ""QU"" question ANY ITLAB-GF-2-13.local, ""QU"" question SRV 0 0 80 ITLAB-GF-2-13.local TXT A 172.17.2.13"
+118,3.598284,172.17.2.130,224.0.0.251,MDNS,248,"Standard query 0x0000 ANY switch2d718a-42._http._tcp.local, ""QU"" question ANY AB2-MtechBlock-SG500-2-130-70.local, ""QU"" question SRV 0 0 80 AB2-MtechBlock-SG500-2-130-70.local TXT A 172.17.2.130"
+119,3.59832,172.17.2.192,224.0.0.251,MDNS,410,"Standard query 0x0000 ANY switch017378-29._csco-sb._tcp.local, ""QU"" question ANY AATC-Bosch-Lab-2-192-31.local, ""QU"" question SRV 0 0 80 AATC-Bosch-Lab-2-192-31.local TXT A 172.17.2.192"
+120,3.60045,172.17.1.12,224.0.0.251,MDNS,258,"Standard query 0x0000 ANY switcha015c9-22._http._tcp.local, ""QU"" question ANY AB1-GF-Reprographic-Centre-1-12-24.local, ""QU"" question SRV 0 0 80 AB1-GF-Reprographic-Centre-1-12-24.local TXT A 172.17.1.12"
+121,3.600478,172.17.1.48,224.0.0.251,MDNS,247,"Standard query 0x0000 ANY switch56b971-1._http._tcp.local, ""QU"" question ANY AB1-MechFacRoom1-SG500-1-48-2.local, ""QU"" question SRV 0 0 80 AB1-MechFacRoom1-SG500-1-48-2.local TXT A 172.17.1.48"
+122,3.600511,172.17.1.29,224.0.0.251,MDNS,253,"Standard query 0x0000 ANY switcha021cb-55._https._tcp.local, ""QU"" question ANY AB1-Computer-Lab1-SG300-1-29-68.local, ""QU"" question SRV 0 0 443 AB1-Computer-Lab1-SG300-1-29-68.local TXT A 172.17.1.29"
+123,3.600548,172.17.2.193,224.0.0.251,MDNS,243,"Standard query 0x0000 ANY switch992fb3-34._https._tcp.local, ""QU"" question ANY AATC-Bosch-Lab-FF-2-193-64.local, ""QU"" question SRV 0 0 443 AATC-Bosch-Lab-FF-2-193-64.local TXT A 172.17.2.193"
+124,3.600584,172.17.2.160,224.0.0.251,MDNS,200,"Standard query 0x0000 ANY switch9184d5-3._telnet._tcp.local, ""QU"" question ANY AB3-B-Blk-GF-CSE-Dept-SG300-2.local, ""QU"" question SRV 0 0 23 AB3-B-Blk-GF-CSE-Dept-SG300-2.local A 172.17.2.160"
+125,3.600621,172.17.1.64,224.0.0.251,MDNS,250,"Standard query 0x0000 ANY switch2d716d-15._http._tcp.local, ""QU"" question ANY AB1-Language-Lab-SG500-1-64-41.local, ""QU"" question SRV 0 0 80 AB1-Language-Lab-SG500-1-64-41.local TXT A 172.17.1.64"
+126,3.602475,172.17.2.131,224.0.0.251,MDNS,177,"Standard query 0x0000 ANY switcha473dc-47._telnet._tcp.local, ""QU"" question ANY Mtech-Block-GF-92.local, ""QU"" question SRV 0 0 23 Mtech-Block-GF-92.local A 172.17.2.131"
+127,3.602516,172.17.2.139,224.0.0.251,MDNS,280,"Standard query 0x0000 ANY switch8ef3b4-39._http._tcp.local, ""QU"" question ANY AB2-Mtech-blk-CyberSecurityLab-SG300-2-139-33.local, ""QU"" question SRV 0 0 80 AB2-Mtech-blk-CyberSecurityLab-SG300-2-139-33.local TXT A 172.17.2.139"
+128,3.602554,172.17.2.191,224.0.0.251,MDNS,248,"Standard query 0x0000 ANY switch56bb5e-20._http._tcp.local, ""QU"" question ANY AATC-LAB-CISCO-SG500-2-191-34.local, ""QU"" question SRV 0 0 80 AATC-LAB-CISCO-SG500-2-191-34.local TXT A 172.17.2.191"
+129,3.602591,172.17.1.143,224.0.0.251,MDNS,243,"Standard query 0x0000 ANY switch017565-30._https._tcp.local, ""QU"" question ANY AshramKudil-SG300-1-143-40.local, ""QU"" question SRV 0 0 443 AshramKudil-SG300-1-143-40.local TXT A 172.17.1.143"
+130,3.602626,172.17.2.69,224.0.0.251,MDNS,218,"Standard query 0x0000 ANY switch337fb5-2._telnet._tcp.local, ""QU"" question ANY AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local, ""QU"" question SRV 0 0 23 AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local A 172.17.2.69"
+131,3.604713,172.17.2.151,224.0.0.251,MDNS,250,"Standard query 0x0000 ANY switcha46b97-5._https._tcp.local, ""QU"" question ANY AB3--CSE-CTS-Lab-SG300-2-151-1.local, ""QU"" question SRV 0 0 443 AB3--CSE-CTS-Lab-SG300-2-151-1.local TXT A 172.17.2.151"
+132,3.604769,172.17.1.84,224.0.0.251,MDNS,242,"Standard query 0x0000 ANY switch337f24-32._http._tcp.local, ""QU"" question ANY OpenAirAuditorium-SG500-36.local, ""QU"" question SRV 0 0 80 OpenAirAuditorium-SG500-36.local TXT A 172.17.1.84"
+133,3.604809,172.17.1.14,224.0.0.251,MDNS,253,"Standard query 0x0000 ANY switch2d7b48-1._http._tcp.local, ""QU"" question ANY AB1-CADCAM-MtechLab-SG300-1-14-1.local, ""QU"" question SRV 0 0 80 AB1-CADCAM-MtechLab-SG300-1-14-1.local TXT A 172.17.1.14"
+134,3.604847,172.17.1.85,224.0.0.251,MDNS,176,"Standard query 0x0000 ANY switcha036fa-24._ssh._tcp.local, ""QU"" question ANY Epabx-Room-1-85-32.local, ""QU"" question SRV 0 0 22 Epabx-Room-1-85-32.local A 172.17.1.85"
+135,3.604884,172.17.1.27,224.0.0.251,MDNS,252,"Standard query 0x0000 ANY switcha00b40._https._tcp.local, ""QU"" question ANY AB1-DirectorateofAdmissions-1-27.local, ""QU"" question SRV 0 0 443 AB1-DirectorateofAdmissions-1-27.local TXT A 172.17.1.27"
+136,3.604922,172.17.2.23,224.0.0.251,MDNS,237,"Standard query 0x0000 ANY switch8613b9-1._http._tcp.local, ""QU"" question ANY ITLAB-FF-CiscoSG300-2-22.local, ""QU"" question SRV 0 0 80 ITLAB-FF-CiscoSG300-2-22.local TXT A 172.17.2.23"
+137,3.604961,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+138,3.60709,172.17.2.133,224.0.0.251,MDNS,255,"Standard query 0x0000 ANY switch015709-58._https._tcp.local, ""QU"" question ANY Mtech-Blk-FF-EEE-Faculty-Room-85.local, ""QU"" question SRV 0 0 443 Mtech-Blk-FF-EEE-Faculty-Room-85.local TXT A 172.17.2.133"
+139,3.607133,172.17.2.137,224.0.0.251,MDNS,267,"Standard query 0x0000 ANY switch998a19-44._https._tcp.local, ""QU"" question ANY AB2-MtechBlk-SocialWork-SF-SG300-2-137.local, ""QU"" question SRV 0 0 443 AB2-MtechBlk-SocialWork-SF-SG300-2-137.local TXT A 172.17.2.137"
+140,3.607169,172.17.1.58,224.0.0.251,MDNS,258,"Standard query 0x0000 ANY switcha03b82-4._https._tcp.local, ""QU"" question ANY AB1-TF-Science-Library-Room-1-58-2.local, ""QU"" question SRV 0 0 443 AB1-TF-Science-Library-Room-1-58-2.local TXT A 172.17.1.58"
+141,3.607206,172.17.2.182,224.0.0.251,MDNS,195,"Standard query 0x0000 ANY switch337e76-15._telnet._tcp.local, ""QU"" question ANY AB3-FF-ACIRI-Dept-2-182-54.local, ""QU"" question SRV 0 0 23 AB3-FF-ACIRI-Dept-2-182-54.local A 172.17.2.182"
+142,3.607243,172.17.2.76,224.0.0.251,MDNS,256,"Standard query 0x0000 ANY switchc470f2-3._https._tcp.local, ""QU"" question ANY AB2-D-Blk-FF-PowerElectronics-Lab.local, ""QU"" question SRV 0 0 443 AB2-D-Blk-FF-PowerElectronics-Lab.local TXT A 172.17.2.76"
+143,3.609409,172.17.1.33,224.0.0.251,MDNS,431,"Standard query 0x0000 ANY switch91b208-39._csco-sb._tcp.local, ""QU"" question ANY AB1-ComputerLab1-SG300-1-33-37.local, ""QU"" question SRV 0 0 80 AB1-ComputerLab1-SG300-1-33-37.local TXT A 172.17.1.33"
+144,3.609452,172.17.2.83,224.0.0.251,MDNS,223,"Standard query 0x0000 ANY switch56c0b1-2._ssh._tcp.local, ""QU"" question ANY AB2-Basic-Electr-Lab-F-Blk-GF-SG500-2-80-8.local, ""QU"" question SRV 0 0 22 AB2-Basic-Electr-Lab-F-Blk-GF-SG500-2-80-8.local A 172.17.2.83"
+145,3.609489,172.17.1.110,224.0.0.251,MDNS,200,"Standard query 0x0000 ANY switch338216-23._ssh._tcp.local, ""QU"" question ANY ASB-SF-Placement-Cell-1-110-43.local, ""QU"" question SRV 0 0 22 ASB-SF-Placement-Cell-1-110-43.local A 172.17.1.110"
+146,3.68307,10.12.35.246,142.251.12.188,TCP,55,52389  >  443 [ACK] Seq=1 Ack=1 Win=256 Len=1 [TCP segment of a reassembled PDU]
+147,3.993847,172.17.1.120,224.0.0.251,MDNS,211,"Standard query 0x0000 ANY switch919c48._http._tcp.local, ""QM"" question ANY switch919c48.local, ""QM"" question SRV 0 0 80 switch919c48.local TXT A 172.17.1.120"
+148,3.993961,172.17.1.32,224.0.0.251,MDNS,222,"Standard query response 0x0000 SRV, cache flush 0 0 443 AB1-ComputerLab1-SG300-1-32-54.local TXT, cache flush PTR switch91aa1a-41._https._tcp.local A, cache flush 172.17.1.32"
+149,3.994008,172.17.1.13,224.0.0.251,MDNS,208,"Standard query 0x0000 ANY switch56b72d-3._telnet._tcp.local, ""QU"" question ANY AB1-Cultural-Education-SG500-1-13.local, ""QU"" question SRV 0 0 23 AB1-Cultural-Education-SG500-1-13.local A 172.17.1.13"
+150,3.994051,172.17.2.74,224.0.0.251,MDNS,205,"Standard query 0x0000 ANY switch9182ae-2._ssh._tcp.local, ""QM"" question ANY AB2-D-Blk-GF-Microprocessor-Lab-5.local, ""QM"" question SRV 0 0 22 AB2-D-Blk-GF-Microprocessor-Lab-5.local A 172.17.2.74"
+151,3.994093,172.17.2.75,224.0.0.251,MDNS,253,"Standard query 0x0000 ANY switch918257-3._http._tcp.local, ""QM"" question ANY AB2-D-Blk-GF-Microprocessor-Lab1.local, ""QM"" question SRV 0 0 80 AB2-D-Blk-GF-Microprocessor-Lab1.local TXT A 172.17.2.75"
+152,3.994133,172.17.2.22,224.0.0.251,MDNS,241,"Standard query 0x0000 ANY switch81f61d._http._tcp.local, ""QU"" question ANY ITLAB-FF-CiscoSG300-2-22-19.local, ""QU"" question SRV 0 0 80 ITLAB-FF-CiscoSG300-2-22-19.local TXT A 172.17.2.22"
+153,3.99606,172.17.1.35,224.0.0.251,MDNS,209,"Standard query 0x0000 ANY switcha018d8-18._telnet._tcp.local, ""QU"" question ANY AB1-MechDeptLibrary-SG300-1-35-37.local, ""QU"" question SRV 0 0 23 AB1-MechDeptLibrary-SG300-1-35-37.local A 172.17.1.35"
+154,3.996173,172.17.2.78,224.0.0.251,MDNS,188,"Standard query 0x0000 ANY switcha4698d-28._ssh._tcp.local, ""QU"" question ANY Mtech-Biomedical-2-78-60.local, ""QU"" question SRV 0 0 22 Mtech-Biomedical-2-78-60.local A 172.17.2.78"
+155,3.996223,172.17.2.101,224.0.0.251,MDNS,241,"Standard query 0x0000 ANY switch56b8c3-19._https._tcp.local, ""QM"" question ANY CentralLib-SG500-2-101-31.local, ""QM"" question SRV 0 0 443 CentralLib-SG500-2-101-31.local TXT A 172.17.2.101"
+156,3.996262,172.17.1.83,224.0.0.251,MDNS,407,"Standard query 0x0000 ANY switch3380ba-23._csco-sb._tcp.local, ""QM"" question ANY switch3380ba-51.local, ""QM"" question SRV 0 0 80 switch3380ba-51.local TXT A 172.17.1.83"
+157,3.996301,172.17.2.70,224.0.0.251,MDNS,209,"Standard query 0x0000 ANY switch992f96-3._ssh._tcp.local, ""QU"" question ANY AB2-C-Blk-GF-Electronic-HW-Lab-2-70.local, ""QU"" question SRV 0 0 22 AB2-C-Blk-GF-Electronic-HW-Lab-2-70.local A 172.17.2.70"
+158,3.998378,172.17.2.79,224.0.0.251,MDNS,237,"Standard query 0x0000 ANY switcha46cd6-26._https._tcp.local, ""QU"" question ANY MtechBiomedical-2-79-40.local, ""QU"" question SRV 0 0 443 MtechBiomedical-2-79-40.local TXT A 172.17.2.79"
+159,3.998552,172.17.1.54,224.0.0.251,MDNS,248,"Standard query 0x0000 ANY switch0174f1-4._https._tcp.local, ""QM"" question ANY AB1-CivilDept-SF-SG300-1-54-3.local, ""QM"" question SRV 0 0 443 AB1-CivilDept-SF-SG300-1-54-3.local TXT A 172.17.1.54"
+160,3.998599,172.17.1.75,224.0.0.251,MDNS,446,"Standard query 0x0000 ANY switch2a9f12-2._csco-sb._tcp.local, ""QU"" question ANY Aerospace-Workshop-SG500-1-75-1.local, ""QU"" question SRV 0 0 80 Aerospace-Workshop-SG500-1-75-1.local TXT A 172.17.1.75"
+161,4.000158,172.17.2.128,224.0.0.251,MDNS,181,"Standard query 0x0000 ANY switch0154a8-3._ssh._tcp.local, ""QU"" question ANY Science-Research-Lab2.local, ""QU"" question SRV 0 0 22 Science-Research-Lab2.local A 172.17.2.128"
+162,4.000227,172.17.2.138,224.0.0.251,MDNS,476,"Standard query 0x0000 ANY switch9914bd-25._csco-sb._tcp.local, ""QM"" question ANY AB2-Mtech-blk-CyberSecurityLab-SG300-2-138-43.local, ""QM"" question SRV 0 0 80 AB2-Mtech-blk-CyberSecurityLab-SG300-2-138-43.local TXT A 172.17.2.138"
+163,4.003253,172.17.2.65,224.0.0.251,MDNS,374,"Standard query 0x0000 ANY switcha470b0-49._csco-sb._tcp.local, ""QU"" question ANY ECE-Dept-97.local, ""QU"" question SRV 0 0 80 ECE-Dept-97.local TXT A 172.17.2.65"
+164,4.003328,172.17.1.38,224.0.0.251,MDNS,240,"Standard query 0x0000 ANY switcha024bd-27._http._tcp.local, ""QU"" question ANY AB1-FF-HR-Dept-SG300-1-38.local, ""QU"" question SRV 0 0 80 AB1-FF-HR-Dept-SG300-1-38.local TXT A 172.17.1.38"
+165,4.003375,172.17.1.27,224.0.0.251,MDNS,252,"Standard query 0x0000 ANY switcha00b40._https._tcp.local, ""QM"" question ANY AB1-DirectorateofAdmissions-1-27.local, ""QM"" question SRV 0 0 443 AB1-DirectorateofAdmissions-1-27.local TXT A 172.17.1.27"
+166,4.003426,172.17.1.17,224.0.0.251,MDNS,251,"Standard query 0x0000 ANY switchc3b19d-2._http._tcp.local, ""QM"" question ANY AB1-CADCAM-Btech-Lab-SG300-1-17.local, ""QM"" question SRV 0 0 80 AB1-CADCAM-Btech-Lab-SG300-1-17.local TXT A 172.17.1.17"
+167,4.005291,172.17.1.18,224.0.0.251,MDNS,255,"Standard query 0x0000 ANY switch9118fd-4._http._tcp.local, ""QU"" question ANY AB1-CADCAM-Btech-Lab-SG300-1-18-2.local, ""QU"" question SRV 0 0 80 AB1-CADCAM-Btech-Lab-SG300-1-18-2.local TXT A 172.17.1.18"
+168,4.005363,172.17.1.51,224.0.0.251,MDNS,203,"Standard query 0x0000 ANY switcha01450-2._ssh._tcp.local, ""QU"" question ANY AB1-Multimedia-Room-SG300-1-51-5.local, ""QU"" question SRV 0 0 22 AB1-Multimedia-Room-SG300-1-51-5.local A 172.17.1.51"
+169,4.005408,172.17.1.40,224.0.0.251,MDNS,250,"Standard query 0x0000 ANY switch91198e-23._http._tcp.local, ""QM"" question ANY AB1-AdminOffice-SG300-1-40-402.local, ""QM"" question SRV 0 0 80 AB1-AdminOffice-SG300-1-40-402.local TXT A 172.17.1.40"
+170,4.005456,172.17.2.73,224.0.0.251,MDNS,442,"Standard query 0x0000 ANY switch56b9e5-1._csco-sb._tcp.local, ""QM"" question ANY Microprocessor-AB2-SG500-2-73.local, ""QM"" question SRV 0 0 80 Microprocessor-AB2-SG500-2-73.local TXT A 172.17.2.73"
+171,4.005499,172.17.2.13,224.0.0.251,MDNS,165,"Standard query 0x0000 ANY switcha02619-2._ssh._tcp.local, ""QU"" question ANY ITLAB-GF-2-13.local, ""QU"" question SRV 0 0 22 ITLAB-GF-2-13.local A 172.17.2.13"
+172,4.007316,172.17.2.130,224.0.0.251,MDNS,440,"Standard query 0x0000 ANY switch2d718a-42._csco-sb._tcp.local, ""QM"" question ANY AB2-MtechBlock-SG500-2-130-70.local, ""QM"" question SRV 0 0 80 AB2-MtechBlock-SG500-2-130-70.local TXT A 172.17.2.130"
+173,4.007389,172.17.2.192,224.0.0.251,MDNS,186,"Standard query 0x0000 ANY switch017378-29._ssh._tcp.local, ""QU"" question ANY AATC-Bosch-Lab-2-192-31.local, ""QU"" question SRV 0 0 22 AATC-Bosch-Lab-2-192-31.local A 172.17.2.192"
+174,4.007434,172.17.1.12,224.0.0.251,MDNS,443,"Standard query 0x0000 ANY switcha015c9-22._csco-sb._tcp.local, ""QM"" question ANY AB1-GF-Reprographic-Centre-1-12-24.local, ""QM"" question SRV 0 0 80 AB1-GF-Reprographic-Centre-1-12-24.local TXT A 172.17.1.12"
+175,4.007479,172.17.1.48,224.0.0.251,MDNS,440,"Standard query 0x0000 ANY switch56b971-1._csco-sb._tcp.local, ""QM"" question ANY AB1-MechFacRoom1-SG500-1-48-2.local, ""QM"" question SRV 0 0 80 AB1-MechFacRoom1-SG500-1-48-2.local TXT A 172.17.1.48"
+176,4.00752,172.17.1.29,224.0.0.251,MDNS,252,"Standard query 0x0000 ANY switcha021cb-55._http._tcp.local, ""QU"" question ANY AB1-Computer-Lab1-SG300-1-29-68.local, ""QU"" question SRV 0 0 80 AB1-Computer-Lab1-SG300-1-29-68.local TXT A 172.17.1.29"
+177,4.009604,172.17.2.193,224.0.0.251,MDNS,242,"Standard query 0x0000 ANY switch992fb3-34._http._tcp.local, ""QM"" question ANY AATC-Bosch-Lab-FF-2-193-64.local, ""QM"" question SRV 0 0 80 AATC-Bosch-Lab-FF-2-193-64.local TXT A 172.17.2.193"
+178,4.009637,172.17.2.160,224.0.0.251,MDNS,248,"Standard query 0x0000 ANY switch9184d5-3._https._tcp.local, ""QU"" question ANY AB3-B-Blk-GF-CSE-Dept-SG300-2.local, ""QU"" question SRV 0 0 443 AB3-B-Blk-GF-CSE-Dept-SG300-2.local TXT A 172.17.2.160"
+179,4.011646,172.17.1.64,224.0.0.251,MDNS,443,"Standard query 0x0000 ANY switch2d716d-15._csco-sb._tcp.local, ""QM"" question ANY AB1-Language-Lab-SG500-1-64-41.local, ""QM"" question SRV 0 0 80 AB1-Language-Lab-SG500-1-64-41.local TXT A 172.17.1.64"
+180,4.013711,172.17.2.131,224.0.0.251,MDNS,225,"Standard query 0x0000 ANY switcha473dc-47._https._tcp.local, ""QM"" question ANY Mtech-Block-GF-92.local, ""QM"" question SRV 0 0 443 Mtech-Block-GF-92.local TXT A 172.17.2.131"
+181,4.013765,172.17.2.139,224.0.0.251,MDNS,476,"Standard query 0x0000 ANY switch8ef3b4-39._csco-sb._tcp.local, ""QM"" question ANY AB2-Mtech-blk-CyberSecurityLab-SG300-2-139-33.local, ""QM"" question SRV 0 0 80 AB2-Mtech-blk-CyberSecurityLab-SG300-2-139-33.local TXT A 172.17.2.139"
+182,4.013805,172.17.2.191,224.0.0.251,MDNS,440,"Standard query 0x0000 ANY switch56bb5e-20._csco-sb._tcp.local, ""QM"" question ANY AATC-LAB-CISCO-SG500-2-191-34.local, ""QM"" question SRV 0 0 80 AATC-LAB-CISCO-SG500-2-191-34.local TXT A 172.17.2.191"
+183,4.013847,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+184,4.013858,172.17.1.143,224.0.0.251,MDNS,242,"Standard query 0x0000 ANY switch017565-30._http._tcp.local, ""QM"" question ANY AshramKudil-SG300-1-143-40.local, ""QM"" question SRV 0 0 80 AshramKudil-SG300-1-143-40.local TXT A 172.17.1.143"
+185,4.013898,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+186,4.016002,172.17.2.69,224.0.0.251,MDNS,266,"Standard query 0x0000 ANY switch337fb5-2._https._tcp.local, ""QM"" question ANY AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local, ""QM"" question SRV 0 0 443 AB2-C-Blk-GF-Electrical-Lab-SG300-2-69.local TXT A 172.17.2.69"
+187,4.016079,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.177? Tell 10.12.63.254
+188,4.01609,172.17.2.151,224.0.0.251,MDNS,249,"Standard query 0x0000 ANY switcha46b97-5._http._tcp.local, ""QM"" question ANY AB3--CSE-CTS-Lab-SG300-2-151-1.local, ""QM"" question SRV 0 0 80 AB3--CSE-CTS-Lab-SG300-2-151-1.local TXT A 172.17.2.151"
+189,4.016136,172.17.1.84,224.0.0.251,MDNS,431,"Standard query 0x0000 ANY switch337f24-32._csco-sb._tcp.local, ""QM"" question ANY OpenAirAuditorium-SG500-36.local, ""QM"" question SRV 0 0 80 OpenAirAuditorium-SG500-36.local TXT A 172.17.1.84"
+190,4.016177,172.17.1.14,224.0.0.251,MDNS,449,"Standard query 0x0000 ANY switch2d7b48-1._csco-sb._tcp.local, ""QU"" question ANY AB1-CADCAM-MtechLab-SG300-1-14-1.local, ""QU"" question SRV 0 0 80 AB1-CADCAM-MtechLab-SG300-1-14-1.local TXT A 172.17.1.14"
+191,4.018038,172.17.1.85,224.0.0.251,MDNS,179,"Standard query 0x0000 ANY switcha036fa-24._telnet._tcp.local, ""QU"" question ANY Epabx-Room-1-85-32.local, ""QU"" question SRV 0 0 23 Epabx-Room-1-85-32.local A 172.17.1.85"
+192,4.018079,172.17.2.23,224.0.0.251,MDNS,415,"Standard query 0x0000 ANY switch8613b9-1._csco-sb._tcp.local, ""QM"" question ANY ITLAB-FF-CiscoSG300-2-22.local, ""QM"" question SRV 0 0 80 ITLAB-FF-CiscoSG300-2-22.local TXT A 172.17.2.23"
+193,4.018119,172.17.2.133,224.0.0.251,MDNS,254,"Standard query 0x0000 ANY switch015709-58._http._tcp.local, ""QM"" question ANY Mtech-Blk-FF-EEE-Faculty-Room-85.local, ""QM"" question SRV 0 0 80 Mtech-Blk-FF-EEE-Faculty-Room-85.local TXT A 172.17.2.133"
+194,4.271079,142.251.12.188,10.12.35.246,TCP,66,443  >  52389 [ACK] Seq=1 Ack=2 Win=265 Len=0 SLE=1 SRE=2
+195,4.300925,::,ff02::c,ICMPv6,90,Multicast Listener Query
+196,4.301018,0.0.0.0,239.255.255.250,IGMPv3,60,"Membership Query, specific for group 239.255.255.250"
+197,4.301057,::,ff02::c,ICMPv6,90,Multicast Listener Query
+198,4.301092,0.0.0.0,239.255.255.250,IGMPv3,60,"Membership Query, specific for group 239.255.255.250"
+199,4.303249,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+200,4.312988,10.12.35.246,49.44.86.208,TCP,55,52400  >  443 [ACK] Seq=1 Ack=1 Win=1026 Len=1 [TCP segment of a reassembled PDU]
+201,4.519263,10.12.35.246,52.137.103.130,TCP,54,"[TCP Retransmission] 52316  >  443 [FIN, ACK] Seq=1 Ack=1 Win=256 Len=0"
+202,4.610402,fe80::8ab:1287:d1bc:e3ee,ff02::fb,MDNS,913,"Standard query response 0x0000 PTR Hemaâ\200\231s MacBook Pro._airplay._tcp.local PTR A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local TXT, cache flush TXT, cache flush SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local AAAA, cache flush fe80::8ab:1287:d1bc:e3ee A, cache flush 10.12.50.132 NSEC, cache flush Hemaâ\200\231s MacBook Pro._airplay._tcp.local NSEC, cache flush A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local NSEC, cache flush Hemas-MacBook-Pro.local"
+203,4.61053,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.32.1
+204,4.65035,49.44.86.208,10.12.35.246,TCP,66,443  >  52400 [ACK] Seq=1 Ack=2 Win=363 Len=0 SLE=1 SRE=2
+205,4.692431,10.12.35.246,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources
+206,4.914817,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+207,5.249195,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.53.202? Tell 10.12.63.254
+208,5.249234,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+209,5.249243,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+210,5.249251,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.144? Tell 10.12.32.1
+211,5.25172,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.112? Tell 10.12.32.1
+212,5.251752,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.189? Tell 10.12.32.1
+213,5.25176,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.180? Tell 10.12.32.1
+214,5.251767,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+215,5.253669,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.32.1
+216,5.2537,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.44? Tell 10.12.32.1
+217,5.253708,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.32.1
+218,5.62161,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+219,5.636714,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+220,5.652347,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+221,5.939757,fe80::8ab:1287:d1bc:e3ee,ff02::fb,MDNS,913,"Standard query response 0x0000 PTR Hemaâ\200\231s MacBook Pro._airplay._tcp.local PTR A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local TXT, cache flush TXT, cache flush SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local AAAA, cache flush fe80::8ab:1287:d1bc:e3ee A, cache flush 10.12.50.132 NSEC, cache flush Hemaâ\200\231s MacBook Pro._airplay._tcp.local NSEC, cache flush A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local NSEC, cache flush Hemas-MacBook-Pro.local"
+222,7.06723,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.63.254
+223,7.167289,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.189? Tell 10.12.32.1
+224,7.269507,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.180? Tell 10.12.32.1
+225,7.269548,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+226,7.269559,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.32.1
+227,7.269566,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.34? Tell 10.12.32.1
+228,7.269574,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.44? Tell 10.12.32.1
+229,7.269581,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.32.1
+230,7.269588,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+231,7.269595,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+232,7.269601,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+233,7.271797,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+234,7.351197,10.12.35.246,52.137.103.130,TCP,54,"[TCP Retransmission] 52316  >  443 [FIN, ACK] Seq=1 Ack=1 Win=256 Len=0"
+235,7.372868,172.17.18.4,255.255.255.255,DHCP,408,DHCP ACK      - Transaction ID 0x22b26ddf
+236,7.372922,172.17.18.4,255.255.255.255,DHCP,408,DHCP ACK      - Transaction ID 0x22b26ddf
+237,7.372935,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+238,7.372998,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+239,7.47403,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.53? Tell 10.12.63.254
+240,7.474061,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+241,7.576183,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+242,7.576223,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.43.33? Tell 10.12.63.254
+243,7.576233,::,ff02::fb,ICMPv6,90,Multicast Listener Query
+244,7.576328,::,ff02::fb,ICMPv6,90,Multicast Listener Query
+245,7.786526,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.31? Tell 10.12.32.1
+246,7.786549,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+247,7.985458,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+248,8.091991,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.63.254
+249,8.092022,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+250,8.200801,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+251,8.200829,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+252,8.200837,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.25? Tell 10.12.32.1
+253,8.200844,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.175? Tell 10.12.32.1
+254,8.200851,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.61? Tell 10.12.32.1
+255,8.202758,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.213? Tell 10.12.32.1
+256,8.202768,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.48.196? Tell 10.12.32.1
+257,8.202772,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+258,8.202776,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+259,8.20278,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+260,8.202784,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+261,8.291376,10.12.35.246,20.190.145.160,TCP,66,52462  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM
+262,8.302172,fe80::8ab:1287:d1bc:e3ee,ff02::fb,MDNS,913,"Standard query response 0x0000 PTR Hemaâ\200\231s MacBook Pro._airplay._tcp.local PTR A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local TXT, cache flush TXT, cache flush SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local AAAA, cache flush fe80::8ab:1287:d1bc:e3ee A, cache flush 10.12.50.132 NSEC, cache flush Hemaâ\200\231s MacBook Pro._airplay._tcp.local NSEC, cache flush A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local NSEC, cache flush Hemas-MacBook-Pro.local"
+263,8.370275,20.190.145.160,10.12.35.246,TCP,66,"443  >  52462 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+264,8.370355,10.12.35.246,20.190.145.160,TCP,54,52462  >  443 [ACK] Seq=1 Ack=1 Win=132352 Len=0
+265,8.370573,10.12.35.246,20.190.145.160,TLSv1.2,283,Client Hello
+266,8.397875,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+267,8.397988,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+268,8.42055,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=1 Ack=230 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+269,8.42055,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=1461 Ack=230 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+270,8.420632,10.12.35.246,20.190.145.160,TCP,54,52462  >  443 [ACK] Seq=230 Ack=2921 Win=132352 Len=0
+271,8.423908,20.190.145.160,10.12.35.246,TLSv1.2,1088,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+272,8.428514,10.12.35.246,20.190.145.160,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+273,8.481729,20.190.145.160,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+274,8.48237,10.12.35.246,20.190.145.160,TLSv1.2,352,Application Data
+275,8.482434,10.12.35.246,20.190.145.160,TCP,1494,52462  >  443 [ACK] Seq=686 Ack=4006 Win=131328 Len=1440 [TCP segment of a reassembled PDU]
+276,8.482434,10.12.35.246,20.190.145.160,TCP,1494,52462  >  443 [ACK] Seq=2126 Ack=4006 Win=131328 Len=1440 [TCP segment of a reassembled PDU]
+277,8.482434,10.12.35.246,20.190.145.160,TCP,1494,52462  >  443 [ACK] Seq=3566 Ack=4006 Win=131328 Len=1440 [TCP segment of a reassembled PDU]
+278,8.482434,10.12.35.246,20.190.145.160,TCP,1494,52462  >  443 [ACK] Seq=5006 Ack=4006 Win=131328 Len=1440 [TCP segment of a reassembled PDU]
+279,8.482434,10.12.35.246,20.190.145.160,TLSv1.2,873,Application Data
+280,8.497092,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.53? Tell 10.12.63.254
+281,8.497123,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.127? Tell 10.12.32.1
+282,8.509165,20.190.145.160,10.12.35.246,TCP,60,443  >  52462 [ACK] Seq=4006 Ack=2126 Win=524288 Len=0
+283,8.516038,20.190.145.160,10.12.35.246,TCP,60,443  >  52462 [ACK] Seq=4006 Ack=5006 Win=524288 Len=0
+284,8.516038,20.190.145.160,10.12.35.246,TCP,60,443  >  52462 [ACK] Seq=4006 Ack=7265 Win=524288 Len=0
+285,8.600527,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+286,8.600558,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+287,8.600567,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+288,8.600574,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.43.33? Tell 10.12.63.254
+289,8.600582,::,ff02::fb,ICMPv6,90,Multicast Listener Query
+290,8.600652,::,ff02::fb,ICMPv6,90,Multicast Listener Query
+291,8.621522,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+292,8.636243,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+293,8.651831,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+294,8.701691,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.177? Tell 10.12.63.254
+295,8.714246,10.12.35.246,172.217.166.14,TCP,55,52429  >  443 [ACK] Seq=1 Ack=1 Win=512 Len=1 [TCP segment of a reassembled PDU]
+296,8.714246,10.12.35.246,142.251.42.67,TCP,55,52403  >  443 [ACK] Seq=1 Ack=1 Win=510 Len=1 [TCP segment of a reassembled PDU]
+297,8.771574,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=4006 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+298,8.774718,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=5466 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+299,8.774718,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=6926 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+300,8.774778,10.12.35.246,20.190.145.160,TCP,54,52462  >  443 [ACK] Seq=7265 Ack=8386 Win=132352 Len=0
+301,8.777886,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=8386 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+302,8.77793,10.12.35.246,20.190.145.160,TCP,54,52462  >  443 [ACK] Seq=7265 Ack=9846 Win=132352 Len=0
+303,8.780264,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=9846 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+304,8.78277,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=11306 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+305,8.78277,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=12766 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+306,8.782858,10.12.35.246,20.190.145.160,TCP,54,52462  >  443 [ACK] Seq=7265 Ack=14226 Win=132352 Len=0
+307,8.789015,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=14226 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+308,8.789015,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=15686 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+309,8.789015,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=17146 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+310,8.789015,20.190.145.160,10.12.35.246,TCP,1514,443  >  52462 [ACK] Seq=18606 Ack=7265 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+311,8.789015,20.190.145.160,10.12.35.246,TLSv1.2,1514,Application Data
+312,8.789015,20.190.145.160,10.12.35.246,TLSv1.2,98,Application Data
+313,8.78913,10.12.35.246,20.190.145.160,TCP,54,52462  >  443 [ACK] Seq=7265 Ack=21571 Win=132352 Len=0
+314,8.789625,10.12.35.246,20.190.145.160,TLSv1.2,85,Encrypted Alert
+315,8.789657,10.12.35.246,20.190.145.160,TCP,54,"52462  >  443 [FIN, ACK] Seq=7296 Ack=21571 Win=132352 Len=0"
+316,8.812015,10.12.35.246,138.91.27.92,TCP,54,"52428  >  443 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0"
+317,8.843243,142.251.42.67,10.12.35.246,TCP,66,443  >  52403 [ACK] Seq=1 Ack=2 Win=268 Len=0 SLE=1 SRE=2
+318,8.848089,172.217.166.14,10.12.35.246,TCP,66,443  >  52429 [ACK] Seq=1 Ack=2 Win=276 Len=0 SLE=1 SRE=2
+319,8.858581,20.190.145.160,10.12.35.246,TCP,60,443  >  52462 [ACK] Seq=21571 Ack=7297 Win=524288 Len=0
+320,8.903217,10.12.35.246,142.250.183.74,TCP,55,52393  >  443 [ACK] Seq=1 Ack=1 Win=259 Len=1 [TCP segment of a reassembled PDU]
+321,8.991484,10.12.35.246,172.17.18.2,DNS,85,Standard query 0x97eb A fd.api.iris.microsoft.com
+322,9.014242,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+323,9.035987,142.250.183.74,10.12.35.246,TCP,66,443  >  52393 [ACK] Seq=1 Ack=2 Win=275 Len=0 SLE=1 SRE=2
+324,9.043141,172.17.18.2,10.12.35.246,DNS,208,Standard query response 0x97eb A fd.api.iris.microsoft.com CNAME fd-api-iris.trafficmanager.net CNAME iris-de-prod-azsc-v2-eas.eastasia.cloudapp.azure.com A 20.24.121.134
+325,9.04641,10.12.35.246,20.24.121.134,TCP,66,52463  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+326,9.046448,10.12.35.246,20.24.121.134,TCP,66,52464  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+327,9.046489,10.12.35.246,20.24.121.134,TCP,66,52465  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+328,9.046518,10.12.35.246,20.24.121.134,TCP,66,52466  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+329,9.046537,10.12.35.246,20.24.121.134,TCP,66,52467  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+330,9.113452,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.252? Tell 10.12.63.254
+331,9.113486,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.34? Tell 10.12.63.254
+332,9.21383,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+333,9.213868,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+334,9.215809,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+335,9.215848,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+336,9.215857,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+337,9.215864,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.31? Tell 10.12.32.1
+338,9.215871,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+339,9.215878,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+340,9.235493,20.24.121.134,10.12.35.246,TCP,66,"443  >  52467 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+341,9.235606,10.12.35.246,20.24.121.134,TCP,54,52467  >  443 [ACK] Seq=1 Ack=1 Win=262144 Len=0
+342,9.238071,10.12.35.246,20.24.121.134,TLSv1.2,353,Client Hello
+343,9.244008,20.24.121.134,10.12.35.246,TCP,66,"443  >  52466 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+344,9.244052,10.12.35.246,20.24.121.134,TCP,54,52466  >  443 [ACK] Seq=1 Ack=1 Win=262144 Len=0
+345,9.244585,10.12.35.246,20.24.121.134,TLSv1.2,353,Client Hello
+346,9.252498,20.24.121.134,10.12.35.246,TCP,66,"443  >  52463 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+347,9.252552,10.12.35.246,20.24.121.134,TCP,54,52463  >  443 [ACK] Seq=1 Ack=1 Win=262144 Len=0
+348,9.253104,10.12.35.246,20.24.121.134,TLSv1.2,353,Client Hello
+349,9.261666,20.24.121.134,10.12.35.246,TCP,66,"443  >  52464 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+350,9.261713,10.12.35.246,20.24.121.134,TCP,54,52464  >  443 [ACK] Seq=1 Ack=1 Win=262144 Len=0
+351,9.262574,10.12.35.246,20.24.121.134,TLSv1.2,353,Client Hello
+352,9.304833,20.24.121.134,10.12.35.246,TCP,66,"443  >  52465 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+353,9.304965,10.12.35.246,20.24.121.134,TCP,54,52465  >  443 [ACK] Seq=1 Ack=1 Win=262144 Len=0
+354,9.305724,10.12.35.246,20.24.121.134,TLSv1.2,353,Client Hello
+355,9.316188,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+356,9.31622,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+357,9.361349,10.12.35.246,172.17.18.2,DNS,90,Standard query 0x2153 A self.events.data.microsoft.com
+358,9.395837,20.24.121.134,10.12.35.246,TCP,1514,443  >  52467 [ACK] Seq=1 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+359,9.39592,10.12.35.246,20.24.121.134,TCP,54,52467  >  443 [ACK] Seq=300 Ack=1461 Win=262144 Len=0
+360,9.40605,20.24.121.134,10.12.35.246,TCP,1514,443  >  52467 [ACK] Seq=1461 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+361,9.40605,20.24.121.134,10.12.35.246,TCP,1514,443  >  52467 [ACK] Seq=2921 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+362,9.40605,20.24.121.134,10.12.35.246,TCP,1514,443  >  52467 [ACK] Seq=4381 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+363,9.40605,20.24.121.134,10.12.35.246,TLSv1.2,420,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+364,9.406149,10.12.35.246,20.24.121.134,TCP,54,52467  >  443 [ACK] Seq=300 Ack=6207 Win=262144 Len=0
+365,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52466 [ACK] Seq=1 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+366,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52466 [ACK] Seq=1461 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+367,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52463 [ACK] Seq=1 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+368,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52466 [ACK] Seq=2921 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+369,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52463 [ACK] Seq=1461 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+370,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52466 [ACK] Seq=4381 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+371,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52463 [ACK] Seq=2921 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+372,9.411779,20.24.121.134,10.12.35.246,TLSv1.2,420,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+373,9.411779,20.24.121.134,10.12.35.246,TCP,1514,443  >  52463 [ACK] Seq=4381 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+374,9.411779,20.24.121.134,10.12.35.246,TLSv1.2,420,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+375,9.411779,172.17.18.2,10.12.35.246,DNS,208,Standard query response 0x2153 A self.events.data.microsoft.com CNAME self-events-data.trafficmanager.net CNAME onedscolprdwus13.westus.cloudapp.azure.com A 20.189.173.14
+376,9.411883,10.12.35.246,20.24.121.134,TCP,54,52466  >  443 [ACK] Seq=300 Ack=6207 Win=262144 Len=0
+377,9.411897,10.12.35.246,20.24.121.134,TCP,54,52463  >  443 [ACK] Seq=300 Ack=6207 Win=262144 Len=0
+378,9.414571,10.12.35.246,20.189.173.14,TCP,66,52468  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+379,9.414785,10.12.35.246,20.24.121.134,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+380,9.414822,10.12.35.246,20.24.121.134,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+381,9.415127,10.12.35.246,20.24.121.134,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+382,9.418591,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.90? Tell 10.12.32.1
+383,9.421443,20.24.121.134,10.12.35.246,TCP,1514,443  >  52464 [ACK] Seq=1 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+384,9.421443,20.24.121.134,10.12.35.246,TCP,1514,443  >  52464 [ACK] Seq=1461 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+385,9.421443,20.24.121.134,10.12.35.246,TCP,1514,443  >  52464 [ACK] Seq=2921 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+386,9.421443,20.24.121.134,10.12.35.246,TCP,1514,443  >  52464 [ACK] Seq=4381 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+387,9.421443,20.24.121.134,10.12.35.246,TLSv1.2,420,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+388,9.421503,10.12.35.246,20.24.121.134,TCP,54,52464  >  443 [ACK] Seq=300 Ack=6207 Win=262144 Len=0
+389,9.424689,10.12.35.246,20.24.121.134,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+390,9.44215,20.24.121.134,10.12.35.246,TCP,1514,443  >  52465 [ACK] Seq=1 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+391,9.44215,20.24.121.134,10.12.35.246,TCP,1514,443  >  52465 [ACK] Seq=1461 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+392,9.442191,10.12.35.246,20.24.121.134,TCP,54,52465  >  443 [ACK] Seq=300 Ack=2921 Win=262144 Len=0
+393,9.487524,20.24.121.134,10.12.35.246,TCP,1514,443  >  52465 [ACK] Seq=2921 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+394,9.487584,10.12.35.246,20.24.121.134,TCP,54,52465  >  443 [ACK] Seq=300 Ack=4381 Win=262144 Len=0
+395,9.500295,20.24.121.134,10.12.35.246,TCP,1514,443  >  52465 [ACK] Seq=4381 Ack=300 Win=262400 Len=1460 [TCP segment of a reassembled PDU]
+396,9.500295,20.24.121.134,10.12.35.246,TLSv1.2,420,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+397,9.500435,10.12.35.246,20.24.121.134,TCP,54,52465  >  443 [ACK] Seq=300 Ack=6207 Win=262144 Len=0
+398,9.503436,10.12.35.246,20.24.121.134,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+399,9.520644,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+400,9.565099,20.24.121.134,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+401,9.565165,10.12.35.246,20.24.121.134,TCP,54,52467  >  443 [ACK] Seq=458 Ack=6258 Win=261888 Len=0
+402,9.568178,10.12.35.246,20.24.121.134,TLSv1.2,141,Application Data
+403,9.569817,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=545 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+404,9.569817,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=1985 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+405,9.569817,10.12.35.246,20.24.121.134,TLSv1.2,1406,Application Data
+406,9.594852,20.24.121.134,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+407,9.594918,10.12.35.246,20.24.121.134,TCP,54,52463  >  443 [ACK] Seq=458 Ack=6258 Win=261888 Len=0
+408,9.594966,20.24.121.134,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+409,9.594989,10.12.35.246,20.24.121.134,TCP,54,52466  >  443 [ACK] Seq=458 Ack=6258 Win=261888 Len=0
+410,9.595005,20.24.121.134,10.12.35.246,TLSv1.2,123,Application Data
+411,9.595021,10.12.35.246,20.24.121.134,TCP,54,52466  >  443 [ACK] Seq=458 Ack=6327 Win=261888 Len=0
+412,9.595634,10.12.35.246,20.24.121.134,TLSv1.2,141,Application Data
+413,9.595681,10.12.35.246,20.24.121.134,TLSv1.2,141,Application Data
+414,9.595723,10.12.35.246,20.24.121.134,TLSv1.2,92,Application Data
+415,9.595863,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=4777 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+416,9.595863,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=6217 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+417,9.595863,10.12.35.246,20.24.121.134,TLSv1.2,1406,Application Data
+418,9.595951,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=9009 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+419,9.595951,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=10449 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+420,9.595951,10.12.35.246,20.24.121.134,TLSv1.2,1407,Application Data
+421,9.622974,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+422,9.629181,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.43.33? Tell 10.12.63.254
+423,9.629206,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+424,9.629214,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.177? Tell 10.12.63.254
+425,9.636132,20.24.121.134,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+426,9.636132,20.24.121.134,10.12.35.246,TLSv1.2,123,Application Data
+427,9.636189,10.12.35.246,20.24.121.134,TCP,54,52465  >  443 [ACK] Seq=458 Ack=6327 Win=261888 Len=0
+428,9.636922,10.12.35.246,20.24.121.134,TLSv1.2,141,Application Data
+429,9.636956,10.12.35.246,20.24.121.134,TLSv1.2,92,Application Data
+430,9.637187,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=13242 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+431,9.690654,20.189.173.14,10.12.35.246,TCP,66,"443  >  52468 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1440 WS=256 SACK_PERM"
+432,9.690734,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=1 Ack=1 Win=262144 Len=0
+433,9.692669,10.12.35.246,20.189.173.14,TLSv1.2,340,Client Hello
+434,9.706737,20.24.121.134,10.12.35.246,TLSv1.2,92,"[TCP Previous segment not captured] , Application Data"
+435,9.706737,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=6365 Ack=4777 Win=262656 Len=0
+436,9.706765,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#1] 52467  >  443 [ACK] Seq=14682 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=6365
+437,9.706786,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=14682 Ack=6258 Win=261888 Len=1440 [TCP segment of a reassembled PDU]
+438,9.706786,10.12.35.246,20.24.121.134,TLSv1.2,1407,Application Data
+439,9.716462,20.24.121.134,10.12.35.246,TLSv1.2,556,Application Data
+440,9.716488,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#2] 52467  >  443 [ACK] Seq=17475 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=6867
+441,9.71852,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+442,9.71852,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=6905 Ack=7657 Win=262656 Len=0
+443,9.718538,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#3] 52467  >  443 [ACK] Seq=17475 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=6905
+444,9.722098,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=6905 Ack=10449 Win=262656 Len=0
+445,9.722098,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+446,9.722136,10.12.35.246,20.24.121.134,TCP,54,52466  >  443 [ACK] Seq=583 Ack=6365 Win=261888 Len=0
+447,9.726213,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=6905 Ack=13242 Win=262656 Len=0
+448,9.739494,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+449,9.739524,10.12.35.246,20.24.121.134,TCP,54,52465  >  443 [ACK] Seq=583 Ack=6365 Win=261888 Len=0
+450,9.804483,20.24.121.134,10.12.35.246,TCP,60,443  >  52466 [ACK] Seq=6365 Ack=583 Win=262144 Len=0
+451,9.81199,20.24.121.134,10.12.35.246,TLSv1.2,245,Application Data
+452,9.812039,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#4] 52467  >  443 [ACK] Seq=17475 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=7096
+453,9.817676,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+454,9.817708,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#5] 52467  >  443 [ACK] Seq=17475 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=7134
+455,9.824279,20.24.121.134,10.12.35.246,TLSv1.2,245,Application Data
+456,9.824279,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+457,9.824279,20.24.121.134,10.12.35.246,TCP,60,[TCP Previous segment not captured] 443  >  52463 [ACK] Seq=6327 Ack=545 Win=262144 Len=0
+458,9.824279,20.24.121.134,10.12.35.246,TCP,60,443  >  52465 [ACK] Seq=6365 Ack=583 Win=262144 Len=0
+459,9.824331,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#6] 52467  >  443 [ACK] Seq=17475 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=7325
+460,9.82436,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 401#7] 52467  >  443 [ACK] Seq=17475 Ack=6258 Win=261888 Len=0 SLE=6327 SRE=7363
+461,9.827485,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+462,9.827588,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.101? Tell 10.12.63.254
+463,9.830618,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=7363 Ack=16122 Win=262656 Len=0
+464,9.83066,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=7363 Ack=17475 Win=261376 Len=0
+465,9.830673,20.24.121.134,10.12.35.246,TLSv1.2,1159,"[TCP Fast Retransmission] , Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data, Application Data"
+466,9.830711,10.12.35.246,20.24.121.134,TCP,66,52467  >  443 [ACK] Seq=17475 Ack=7363 Win=260864 Len=0 SLE=6327 SRE=7363
+467,9.830848,10.12.35.246,20.24.121.134,TLSv1.2,92,Application Data
+468,9.8957,20.24.121.134,10.12.35.246,TLSv1.2,245,Application Data
+469,9.8957,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+470,9.895772,10.12.35.246,20.24.121.134,TCP,54,52467  >  443 [ACK] Seq=17513 Ack=7592 Win=260608 Len=0
+471,9.91512,20.24.121.134,10.12.35.246,TCP,1514,"[TCP Spurious Retransmission] 443  >  52464 [PSH, ACK] Seq=4747 Ack=300 Win=262400 Len=1460"
+472,9.915154,10.12.35.246,20.24.121.134,TCP,66,[TCP Dup ACK 388#1] 52464  >  443 [ACK] Seq=458 Ack=6207 Win=262144 Len=0 SLE=4747 SRE=6207
+473,9.930357,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+474,9.930395,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.195? Tell 10.12.32.1
+475,9.941714,10.12.35.246,20.24.121.134,TCP,212,"[TCP Retransmission] 52464  >  443 [PSH, ACK] Seq=300 Ack=6207 Win=262144 Len=158"
+476,9.942176,20.189.173.14,10.12.35.246,TCP,1514,443  >  52468 [ACK] Seq=1 Ack=287 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+477,9.942264,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=287 Ack=1461 Win=262144 Len=0
+478,9.974538,20.189.173.14,10.12.35.246,TCP,1514,443  >  52468 [ACK] Seq=1461 Ack=287 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+479,9.974538,20.189.173.14,10.12.35.246,TCP,1514,443  >  52468 [ACK] Seq=2921 Ack=287 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+480,9.974538,20.189.173.14,10.12.35.246,TCP,1514,443  >  52468 [ACK] Seq=4381 Ack=287 Win=524288 Len=1460 [TCP segment of a reassembled PDU]
+481,9.974538,20.189.173.14,10.12.35.246,TLSv1.2,509,"Server Hello, Certificate, Certificate Status, Server Key Exchange, Server Hello Done"
+482,9.974624,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=287 Ack=6296 Win=262144 Len=0
+483,9.984031,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=7592 Ack=17513 Win=261376 Len=0
+484,9.985514,10.12.35.246,20.189.173.14,TLSv1.2,212,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+485,10.049105,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+486,10.049145,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.177? Tell 10.12.63.254
+487,10.075925,20.24.121.134,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+488,10.075925,20.24.121.134,10.12.35.246,TLSv1.2,123,Application Data
+489,10.076008,10.12.35.246,20.24.121.134,TCP,54,52464  >  443 [ACK] Seq=458 Ack=6327 Win=261888 Len=0
+490,10.076805,10.12.35.246,20.24.121.134,TLSv1.2,141,Application Data
+491,10.076839,10.12.35.246,20.24.121.134,TLSv1.2,92,Application Data
+492,10.077002,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=17513 Ack=7592 Win=260608 Len=1440 [TCP segment of a reassembled PDU]
+493,10.077002,10.12.35.246,20.24.121.134,TCP,1494,52467  >  443 [ACK] Seq=18953 Ack=7592 Win=260608 Len=1440 [TCP segment of a reassembled PDU]
+494,10.077002,10.12.35.246,20.24.121.134,TLSv1.2,1405,Application Data
+495,10.16051,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.112? Tell 10.12.32.1
+496,10.160555,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.252? Tell 10.12.63.254
+497,10.160565,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.34? Tell 10.12.63.254
+498,10.201059,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=7592 Ack=20393 Win=262656 Len=0
+499,10.201059,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+500,10.201117,10.12.35.246,20.24.121.134,TCP,54,52464  >  443 [ACK] Seq=583 Ack=6365 Win=261888 Len=0
+501,10.244323,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.48.196? Tell 10.12.32.1
+502,10.244353,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+503,10.246384,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+504,10.246417,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+505,10.246426,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+506,10.246433,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+507,10.246439,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+508,10.249082,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+509,10.354813,20.24.121.134,10.12.35.246,TCP,60,443  >  52467 [ACK] Seq=7592 Ack=21744 Win=261376 Len=0
+510,10.354813,20.24.121.134,10.12.35.246,TLSv1.2,268,Application Data
+511,10.354813,20.24.121.134,10.12.35.246,TLSv1.2,92,Application Data
+512,10.354813,20.24.121.134,10.12.35.246,TCP,60,443  >  52464 [ACK] Seq=6365 Ack=583 Win=262144 Len=0
+513,10.354813,20.189.173.14,10.12.35.246,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+514,10.354813,20.24.121.134,10.12.35.246,TCP,161,"[TCP Retransmission] 443  >  52463 [PSH, ACK] Seq=6258 Ack=545 Win=262144 Len=107"
+515,10.354904,10.12.35.246,20.24.121.134,TCP,54,52467  >  443 [ACK] Seq=21744 Ack=7844 Win=262144 Len=0
+516,10.354924,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=445 Ack=6347 Win=261888 Len=0
+517,10.354931,10.12.35.246,20.24.121.134,TCP,54,52463  >  443 [ACK] Seq=545 Ack=6365 Win=261888 Len=0
+518,10.355009,10.12.35.246,20.24.121.134,TLSv1.2,92,Application Data
+519,10.356273,10.12.35.246,20.189.173.14,TLSv1.2,587,Application Data
+520,10.356298,10.12.35.246,20.189.173.14,TLSv1.2,1387,Application Data
+521,10.512225,20.24.121.134,10.12.35.246,TCP,60,443  >  52463 [ACK] Seq=6365 Ack=583 Win=262144 Len=0
+522,10.54436,172.17.18.4,255.255.255.255,DHCP,408,DHCP ACK      - Transaction ID 0xf22b34c2
+523,10.544412,172.17.18.4,255.255.255.255,DHCP,408,DHCP ACK      - Transaction ID 0xf22b34c2
+524,10.620908,20.189.173.14,10.12.35.246,TLSv1.2,108,Application Data
+525,10.620908,20.189.173.14,10.12.35.246,TCP,60,443  >  52468 [ACK] Seq=6401 Ack=2311 Win=524288 Len=0
+526,10.620964,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=2311 Ack=6401 Win=261888 Len=0
+527,10.634229,20.189.173.14,10.12.35.246,TLSv1.2,507,Application Data
+528,10.634276,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=2311 Ack=6854 Win=261376 Len=0
+529,10.646804,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+530,10.646835,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.177? Tell 10.12.63.254
+531,10.646845,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+532,10.877238,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.101? Tell 10.12.63.254
+533,10.877268,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+534,10.877277,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+535,10.979084,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+536,10.979205,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+537,11.0708,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.177? Tell 10.12.63.254
+538,11.170871,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.252? Tell 10.12.63.254
+539,11.170905,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.53.202? Tell 10.12.63.254
+540,11.260858,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+541,11.260891,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+542,11.260899,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.31? Tell 10.12.32.1
+543,11.260906,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+544,11.263368,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+545,11.2634,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+546,11.26341,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+547,11.263419,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.90? Tell 10.12.32.1
+548,11.266015,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+549,11.266046,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+550,11.26801,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.195? Tell 10.12.32.1
+551,11.26804,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.112? Tell 10.12.32.1
+552,11.26805,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.189? Tell 10.12.32.1
+553,11.363688,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+554,11.465115,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.180? Tell 10.12.32.1
+555,11.465153,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+556,11.626816,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+557,11.641657,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+558,11.657522,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+559,11.683993,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+560,11.684031,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+561,11.776035,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+562,11.776074,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.32.1
+563,11.776083,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+564,11.874718,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.101? Tell 10.12.63.254
+565,11.874755,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+566,11.874765,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+567,12.009037,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+568,12.009129,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+569,12.009158,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+570,12.081058,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.177? Tell 10.12.63.254
+571,12.200932,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.53.202? Tell 10.12.63.254
+572,12.200964,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.127? Tell 10.12.32.1
+573,12.200973,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+574,12.200979,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+575,12.202254,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+576,12.254089,10.12.35.246,142.250.193.3,TCP,55,52423  >  443 [ACK] Seq=1 Ack=1 Win=510 Len=1 [TCP segment of a reassembled PDU]
+577,12.289885,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+578,12.390316,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+579,12.390345,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+580,12.413574,142.250.193.3,10.12.35.246,TCP,66,443  >  52423 [ACK] Seq=1 Ack=2 Win=334 Len=0 SLE=1 SRE=2
+581,12.653007,10.12.35.246,20.189.173.14,TLSv1.2,511,Application Data
+582,12.653055,10.12.35.246,20.189.173.14,TLSv1.2,727,Application Data
+583,12.796095,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.175? Tell 10.12.32.1
+584,12.898164,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+585,12.912801,20.189.173.14,10.12.35.246,TCP,60,443  >  52468 [ACK] Seq=6854 Ack=3441 Win=524288 Len=0
+586,12.912801,20.189.173.14,10.12.35.246,TLSv1.2,506,Application Data
+587,12.912847,10.12.35.246,20.189.173.14,TCP,54,52468  >  443 [ACK] Seq=3441 Ack=7306 Win=261120 Len=0
+588,13.002614,172.17.18.4,255.255.255.255,DHCP,408,DHCP ACK      - Transaction ID 0x2f5174c
+589,13.00266,172.17.18.4,255.255.255.255,DHCP,408,DHCP ACK      - Transaction ID 0x2f5174c
+590,13.002674,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+591,13.002684,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+592,13.002749,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+593,13.014168,10.12.35.246,52.137.103.130,TCP,54,"[TCP Retransmission] 52316  >  443 [FIN, ACK] Seq=1 Ack=1 Win=256 Len=0"
+594,13.126253,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+595,13.221682,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.53.202? Tell 10.12.63.254
+596,13.221723,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+597,13.221733,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+598,13.22174,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.90? Tell 10.12.32.1
+599,13.221748,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+600,13.223542,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+601,13.223583,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.195? Tell 10.12.32.1
+602,13.223592,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.112? Tell 10.12.32.1
+603,13.223599,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.189? Tell 10.12.32.1
+604,13.223607,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.180? Tell 10.12.32.1
+605,13.223614,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+606,13.225782,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+607,13.225816,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+608,13.225825,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.32.1
+609,13.410005,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+610,13.410043,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+611,13.410054,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+612,13.614505,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+613,13.71708,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+614,13.8196,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+615,13.819646,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+616,13.81966,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+617,13.819674,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+618,13.819822,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+619,14.024938,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+620,14.024972,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+621,14.025049,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+622,14.128494,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.63.254
+623,14.22883,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+624,14.228859,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.175? Tell 10.12.32.1
+625,14.228869,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+626,14.228875,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+627,14.331067,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+628,14.331098,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+629,14.331108,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+630,14.331116,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+631,14.331124,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.181? Tell 10.12.32.1
+632,14.331132,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.205? Tell 10.12.32.1
+633,14.331139,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+634,14.333323,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+635,14.333343,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+636,14.333352,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+637,14.333359,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+638,14.333367,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+639,14.535548,IntelCor_df:96:20,Broadcast,ARP,56,Who has 10.12.32.1? Tell 10.12.51.129
+640,14.621767,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+641,14.636542,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+642,14.652577,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+643,14.842477,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+644,14.952542,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+645,14.952567,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+646,14.952573,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+647,15.025682,10.12.35.246,20.189.173.14,TCP,54,"52468  >  443 [RST, ACK] Seq=3441 Ack=7306 Win=0 Len=0"
+648,15.047013,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+649,15.047042,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+650,15.04705,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.63.254
+651,15.14968,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+652,15.149708,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.205? Tell 10.12.32.1
+653,15.251893,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.189? Tell 10.12.32.1
+654,15.251925,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.180? Tell 10.12.32.1
+655,15.251934,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+656,15.251941,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+657,15.251948,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+658,15.251955,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.32.1
+659,15.253917,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+660,15.253935,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+661,15.253944,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+662,15.253951,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+663,15.253959,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+664,15.253966,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+665,15.45688,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+666,15.559017,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+667,15.602885,10.12.35.246,142.250.183.78,TCP,55,52396  >  443 [ACK] Seq=1 Ack=1 Win=507 Len=1 [TCP segment of a reassembled PDU]
+668,15.65225,142.250.183.78,10.12.35.246,TCP,66,443  >  52396 [ACK] Seq=1 Ack=2 Win=265 Len=0 SLE=1 SRE=2
+669,15.76391,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.31? Tell 10.12.32.1
+670,15.763952,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+671,15.766887,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+672,15.906287,10.12.35.246,142.250.183.78,TCP,55,52397  >  443 [ACK] Seq=1 Ack=1 Win=512 Len=1 [TCP segment of a reassembled PDU]
+673,15.963006,142.250.183.78,10.12.35.246,TCP,66,443  >  52397 [ACK] Seq=1 Ack=2 Win=327 Len=0 SLE=1 SRE=2
+674,16.070607,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+675,16.070659,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+676,16.070673,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.170? Tell 10.12.32.1
+677,16.070686,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.133? Tell 10.12.63.254
+678,16.173462,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.175? Tell 10.12.32.1
+679,16.275328,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+680,16.275359,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+681,16.275368,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+682,16.275375,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+683,16.275382,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+684,16.27735,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+685,16.277368,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.181? Tell 10.12.32.1
+686,16.277377,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.205? Tell 10.12.32.1
+687,16.277384,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+688,16.279202,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+689,16.279215,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+690,16.279219,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+691,16.279223,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+692,16.279227,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+693,16.281442,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+694,16.28146,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+695,16.281468,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+696,16.281475,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.205? Tell 10.12.32.1
+697,16.281482,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+698,16.283567,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+699,16.5836,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+700,16.583635,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+701,16.583643,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+702,16.58365,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+703,16.583657,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+704,16.686494,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+705,16.787077,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+706,16.787106,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+707,16.991604,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+708,17.094015,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.245? Tell 10.12.63.254
+709,17.094044,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+710,17.19666,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.120? Tell 10.12.32.1
+711,17.196691,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+712,17.19851,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.181? Tell 10.12.32.1
+713,17.19852,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+714,17.198527,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+715,17.198534,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+716,17.19854,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+717,17.200754,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.31? Tell 10.12.32.1
+718,17.200761,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.170? Tell 10.12.32.1
+719,17.402294,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+720,17.608057,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+721,17.608085,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+722,17.62146,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+723,17.636682,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+724,17.652824,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+725,17.810572,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+726,17.810715,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+727,17.810737,fe80::6c16:2ebc:30b9:f53d,ff02::fb,MDNS,105,"Standard query 0x0000 PTR _microsoft_mcc._tcp.local, ""QU"" question"
+728,17.912701,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+729,17.912729,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+730,18.02894,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.195? Tell 10.12.32.1
+731,18.028969,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+732,18.028979,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+733,18.117573,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+734,18.117606,52:51:08:30:08:c2,Broadcast,ARP,56,Who has 10.12.32.1? Tell 10.12.53.82
+735,18.220176,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+736,18.220215,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+737,18.220224,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+738,18.220232,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+739,18.221767,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+740,18.221785,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.181? Tell 10.12.32.1
+741,18.221795,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.205? Tell 10.12.32.1
+742,18.221802,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+743,18.22181,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+744,18.22476,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+745,18.224782,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+746,18.22479,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+747,18.226625,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+748,18.226643,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+749,18.226652,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.31? Tell 10.12.32.1
+750,18.229099,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+751,18.229116,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.205? Tell 10.12.32.1
+752,18.229123,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+753,18.22913,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+754,18.231747,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+755,18.231761,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+756,18.231768,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+757,18.231775,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+758,18.231782,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+759,18.231788,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+760,18.657666,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+761,18.657695,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+762,18.657704,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+763,18.731661,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+764,18.731686,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+765,18.848691,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+766,18.848771,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+767,18.848789,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+768,18.848798,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+769,18.848803,fe80::6c16:2ebc:30b9:f53d,ff02::fb,MDNS,105,"Standard query 0x0000 PTR _microsoft_mcc._tcp.local, ""QM"" question"
+770,18.84887,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+771,18.944473,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+772,19.038866,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+773,19.269051,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.233? Tell 10.12.32.1
+774,19.269086,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.31? Tell 10.12.32.1
+775,19.269095,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.170? Tell 10.12.32.1
+776,19.269103,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+777,19.26911,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.195? Tell 10.12.32.1
+778,19.271306,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+779,19.367855,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.127? Tell 10.12.32.1
+780,19.37011,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+781,19.37013,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+782,19.754928,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+783,19.757461,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+784,19.757616,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+785,19.86858,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+786,19.868613,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+787,19.868622,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+788,19.868629,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.255? Tell 10.12.32.1
+789,19.870155,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+790,19.870167,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+791,20.062118,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.186? Tell 10.12.63.254
+792,20.062152,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+793,20.266651,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+794,20.266679,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+795,20.266688,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.175? Tell 10.12.32.1
+796,20.266694,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.85? Tell 10.12.32.1
+797,20.269259,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+798,20.269268,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+799,20.269274,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+800,20.269282,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.34? Tell 10.12.32.1
+801,20.269288,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+802,20.2714,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+803,20.271417,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+804,20.271423,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+805,20.271428,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.8? Tell 10.12.32.1
+806,20.36888,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+807,20.36891,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+808,20.625039,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+809,20.639037,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+810,20.646524,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+811,20.676,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+812,20.778894,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+813,20.880918,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+814,20.909475,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+815,20.909516,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+816,20.909526,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+817,20.909532,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+818,21.085343,fe80::dfc3:ea8e:93e8:395d,ff02::fb,MDNS,105,"Standard query 0x0000 PTR _microsoft_mcc._tcp.local, ""QU"" question"
+819,21.085461,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+820,21.085474,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+821,21.189373,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+822,21.189395,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.195? Tell 10.12.32.1
+823,21.189401,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+824,21.189406,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.127? Tell 10.12.32.1
+825,21.290135,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.255? Tell 10.12.32.1
+826,21.290167,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.181? Tell 10.12.32.1
+827,21.292422,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+828,21.292444,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+829,21.29245,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+830,21.292455,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+831,21.29246,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+832,21.292465,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+833,21.292471,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.205? Tell 10.12.32.1
+834,21.292477,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+835,21.294471,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+836,21.294489,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+837,21.294496,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.194? Tell 10.12.63.254
+838,21.294503,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.63.254
+839,21.392286,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+840,21.392315,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.63.254
+841,21.392324,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.90? Tell 10.12.32.1
+842,21.59721,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+843,21.597339,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+844,21.597369,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.63.254
+845,21.801623,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+846,21.801722,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+847,21.801732,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+848,21.801737,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+849,21.801742,52:51:08:30:08:c2,Broadcast,ARP,56,Who has 10.12.32.1? Tell 10.12.53.82
+850,21.801747,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+851,21.803732,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+852,21.904169,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.73? Tell 10.12.32.1
+853,21.904193,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+854,21.904199,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+855,21.904203,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+856,22.006565,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+857,22.006656,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+858,22.108848,fe80::dfc3:ea8e:93e8:395d,ff02::fb,MDNS,105,"Standard query 0x0000 PTR _microsoft_mcc._tcp.local, ""QM"" question"
+859,22.108967,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+860,22.238627,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.141? Tell 10.12.32.1
+861,22.238655,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+862,22.238664,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.175? Tell 10.12.32.1
+863,22.238671,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+864,22.238679,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.8? Tell 10.12.32.1
+865,22.238686,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+866,22.238692,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+867,22.238699,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+868,22.313628,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+869,22.313656,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,ICMPv6,86,Multicast Listener Report
+870,22.313768,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.63.254
+871,22.518182,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.63.254
+872,22.520786,fe80::8ab:1287:d1bc:e3ee,ff02::fb,MDNS,913,"Standard query response 0x0000 PTR Hemaâ\200\231s MacBook Pro._airplay._tcp.local PTR A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local TXT, cache flush TXT, cache flush SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local AAAA, cache flush fe80::8ab:1287:d1bc:e3ee A, cache flush 10.12.50.132 NSEC, cache flush Hemaâ\200\231s MacBook Pro._airplay._tcp.local NSEC, cache flush A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local NSEC, cache flush Hemas-MacBook-Pro.local"
+873,22.62212,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.5? Tell 10.12.32.1
+874,22.624428,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+875,22.624545,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+876,22.627489,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.63.254
+877,22.62751,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.2? Tell 10.12.32.1
+878,22.664771,10.12.35.246,142.250.182.206,TCP,1466,52387  >  443 [ACK] Seq=1 Ack=1 Win=258 Len=1412 [TCP segment of a reassembled PDU]
+879,22.664771,10.12.35.246,142.250.182.206,TLSv1.2,1441,Application Data
+880,22.664831,10.12.35.246,142.250.182.206,TLSv1.2,93,Application Data
+881,22.664851,10.12.35.246,142.250.182.206,TLSv1.2,311,Application Data
+882,22.722788,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,179,"Standard query 0x0000 ANY {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local, ""QM"" question SRV 0 0 56666 Android.local"
+883,22.755259,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=1 Ack=1413 Win=604 Len=0
+884,22.755259,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=1 Ack=2800 Win=615 Len=0
+885,22.755259,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=1 Ack=2839 Win=615 Len=0
+886,22.755259,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=1 Ack=3096 Win=626 Len=0
+887,22.755259,142.250.182.206,10.12.35.246,TLSv1.2,93,Application Data
+888,22.800083,10.12.35.246,142.250.182.206,TCP,54,52387  >  443 [ACK] Seq=3096 Ack=40 Win=258 Len=0
+889,22.828431,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+890,22.828458,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+891,22.84677,142.250.182.206,10.12.35.246,TLSv1.2,123,Application Data
+892,22.859198,142.250.182.206,10.12.35.246,TLSv1.2,85,Application Data
+893,22.859198,142.250.182.206,10.12.35.246,TLSv1.2,93,Application Data
+894,22.859245,10.12.35.246,142.250.182.206,TCP,54,52387  >  443 [ACK] Seq=3096 Ack=179 Win=257 Len=0
+895,22.859577,10.12.35.246,142.250.182.206,TLSv1.2,93,Application Data
+896,22.927542,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+897,22.950633,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=179 Ack=3135 Win=626 Len=0
+898,23.030177,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+899,23.030204,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+900,23.030214,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,179,"Standard query 0x0000 ANY {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local, ""QM"" question SRV 0 0 56666 Android.local"
+901,23.132333,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.170? Tell 10.12.32.1
+902,23.132366,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+903,23.236367,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+904,23.238048,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.127? Tell 10.12.32.1
+905,23.238069,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.255? Tell 10.12.32.1
+906,23.238078,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+907,23.238085,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+908,23.240606,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+909,23.240626,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+910,23.240635,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+911,23.240642,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+912,23.242968,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+913,23.242986,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+914,23.242994,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.90? Tell 10.12.32.1
+915,23.242999,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+916,23.244789,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+917,23.244808,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.73? Tell 10.12.32.1
+918,23.244817,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+919,23.244824,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+920,23.338167,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,179,"Standard query 0x0000 ANY {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local, ""QM"" question SRV 0 0 56666 Android.local"
+921,23.338288,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.63.254
+922,23.541477,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.63.254
+923,23.541515,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,524,"Standard query response 0x0000 PTR, cache flush Android.local PTR, cache flush Android.local TXT, cache flush PTR _mi-connect._udp.local PTR {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local SRV, cache flush 0 0 56666 Android.local NSEC, cache flush 98.35.12.10.in-addr.arpa NSEC, cache flush 2.B.F.8.1.9.E.F.F.F.2.B.D.D.8.C.0.0.0.0.0.0.0.0.0.0.0.0.0.8.E.F.ip6.arpa NSEC, cache flush {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local"
+924,23.62619,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+925,23.640358,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+926,23.648926,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.63.254
+927,23.648945,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,143,"Standard query 0x0000 ANY Android.local, ""QM"" question ANY Android.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+928,23.656141,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+929,23.748539,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+930,23.748569,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+931,23.851949,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+932,23.851982,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+933,24.055274,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.102? Tell 10.12.32.1
+934,24.055318,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,143,"Standard query 0x0000 ANY Android.local, ""QM"" question ANY Android.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+935,24.055475,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+936,24.058536,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+937,24.058557,fe80::8ab:1287:d1bc:e3ee,ff02::fb,MDNS,913,"Standard query response 0x0000 PTR Hemaâ\200\231s MacBook Pro._airplay._tcp.local PTR A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local TXT, cache flush TXT, cache flush SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local SRV, cache flush 0 0 7000 Hemas-MacBook-Pro.local AAAA, cache flush fe80::8ab:1287:d1bc:e3ee A, cache flush 10.12.50.132 NSEC, cache flush Hemaâ\200\231s MacBook Pro._airplay._tcp.local NSEC, cache flush A4CF995F3A5A@Hemaâ\200\231s MacBook Pro._raop._tcp.local NSEC, cache flush Hemas-MacBook-Pro.local"
+938,24.15557,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,ICMPv6,86,Multicast Listener Report
+939,24.273327,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+940,24.273354,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+941,24.273362,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.45.34? Tell 10.12.32.1
+942,24.27337,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+943,24.275205,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.5? Tell 10.12.32.1
+944,24.275224,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.2? Tell 10.12.32.1
+945,24.275232,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.170? Tell 10.12.32.1
+946,24.275238,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+947,24.275245,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+948,24.275252,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.40? Tell 10.12.32.1
+949,24.275258,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.134? Tell 10.12.32.1
+950,24.277748,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,143,"Standard query 0x0000 ANY Android.local, ""QM"" question ANY Android.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+951,24.338989,10.12.35.246,52.137.103.130,TCP,54,"[TCP Retransmission] 52316  >  443 [FIN, ACK] Seq=1 Ack=1 Win=256 Len=0"
+952,24.360432,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+953,24.462525,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+954,24.564915,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.63.254
+955,24.564944,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,151,"Standard query response 0x0000 A, cache flush 10.12.35.98 AAAA, cache flush fe80::c8dd:b2ff:fe91:8fb2 NSEC, cache flush Android.local"
+956,24.56505,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+957,24.565059,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+958,24.667339,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+959,24.667367,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,524,"Standard query response 0x0000 PTR, cache flush Android.local PTR, cache flush Android.local TXT, cache flush PTR _mi-connect._udp.local PTR {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local SRV, cache flush 0 0 56666 Android.local NSEC, cache flush 98.35.12.10.in-addr.arpa NSEC, cache flush 2.B.F.8.1.9.E.F.F.F.2.B.D.D.8.C.0.0.0.0.0.0.0.0.0.0.0.0.0.8.E.F.ip6.arpa NSEC, cache flush {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local"
+960,24.871881,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+961,24.871912,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.17? Tell 10.12.63.254
+962,24.87192,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+963,25.101243,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+964,25.101271,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+965,25.101279,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+966,25.187011,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.181? Tell 10.12.32.1
+967,25.187049,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+968,25.188856,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+969,25.18888,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+970,25.188889,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+971,25.188897,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+972,25.188905,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+973,25.188912,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.205? Tell 10.12.32.1
+974,25.191161,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+975,25.191171,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+976,25.191176,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+977,25.191181,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.90? Tell 10.12.32.1
+978,25.292731,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.229? Tell 10.12.32.1
+979,25.29276,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.188? Tell 10.12.32.1
+980,25.29277,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.73? Tell 10.12.32.1
+981,25.294328,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+982,25.294346,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+983,25.294355,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+984,25.294363,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.102? Tell 10.12.32.1
+985,25.383889,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.253? Tell 10.12.63.254
+986,25.588683,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,151,"Standard query response 0x0000 A, cache flush 10.12.35.98 AAAA, cache flush fe80::c8dd:b2ff:fe91:8fb2 NSEC, cache flush Android.local"
+987,25.690882,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+988,25.69091,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.222? Tell 10.12.63.254
+989,25.793,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+990,25.895373,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.34.126? Tell 10.12.63.254
+991,25.895402,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.17? Tell 10.12.63.254
+992,25.89541,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+993,25.895417,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+994,25.895424,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+995,26.100426,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+996,26.100455,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.243? Tell 10.12.63.254
+997,26.205452,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.14? Tell 10.12.32.1
+998,26.20548,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.5? Tell 10.12.32.1
+999,26.20549,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.2? Tell 10.12.32.1
+1000,26.205497,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.170? Tell 10.12.32.1
+1001,26.208455,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+1002,26.20848,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.116? Tell 10.12.32.1
+1003,26.208489,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.40? Tell 10.12.32.1
+1004,26.208498,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.134? Tell 10.12.32.1
+1005,26.208505,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+1006,26.208517,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+1007,26.210991,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+1008,26.211014,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+1009,26.211023,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+1010,26.308283,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1011,26.308374,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1012,26.407117,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.253? Tell 10.12.63.254
+1013,26.613444,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,588,"Standard query response 0x0000 PTR, cache flush Android.local PTR, cache flush Android.local TXT, cache flush PTR _mi-connect._udp.local PTR {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local SRV, cache flush 0 0 56666 Android.local A, cache flush 10.12.35.98 AAAA, cache flush fe80::c8dd:b2ff:fe91:8fb2 NSEC, cache flush 98.35.12.10.in-addr.arpa NSEC, cache flush 2.B.F.8.1.9.E.F.F.F.2.B.D.D.8.C.0.0.0.0.0.0.0.0.0.0.0.0.0.8.E.F.ip6.arpa NSEC, cache flush {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local NSEC, cache flush Android.local"
+1014,26.640448,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+1015,26.655052,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+1016,26.658375,10.12.35.246,142.250.182.206,TCP,1466,52387  >  443 [ACK] Seq=3135 Ack=179 Win=257 Len=1412 [TCP segment of a reassembled PDU]
+1017,26.658375,10.12.35.246,142.250.182.206,TLSv1.2,1367,Application Data
+1018,26.670381,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+1019,26.714858,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.102? Tell 10.12.63.254
+1020,26.714897,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+1021,26.714907,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.222? Tell 10.12.63.254
+1022,26.720443,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=179 Ack=4547 Win=637 Len=0
+1023,26.725074,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=179 Ack=5860 Win=648 Len=0
+1024,26.790669,142.250.182.206,10.12.35.246,TLSv1.2,121,Application Data
+1025,26.790669,142.250.182.206,10.12.35.246,TLSv1.2,85,Application Data
+1026,26.790669,142.250.182.206,10.12.35.246,TLSv1.2,93,Application Data
+1027,26.79074,10.12.35.246,142.250.182.206,TCP,54,52387  >  443 [ACK] Seq=5860 Ack=316 Win=257 Len=0
+1028,26.791029,10.12.35.246,142.250.182.206,TLSv1.2,93,Application Data
+1029,26.816453,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+1030,26.874353,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=316 Ack=5899 Win=648 Len=0
+1031,26.918998,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.17? Tell 10.12.63.254
+1032,26.91903,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.255? Tell 10.12.32.1
+1033,26.919039,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+1034,26.919046,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+1035,26.919052,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.67? Tell 10.12.63.254
+1036,27.126807,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+1037,27.126829,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.243? Tell 10.12.63.254
+1038,27.225893,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.220? Tell 10.12.32.1
+1039,27.225921,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.102? Tell 10.12.32.1
+1040,27.328216,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1041,27.328289,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1042,27.430873,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.253? Tell 10.12.63.254
+1043,27.430905,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+1044,27.430914,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+1045,27.533879,fe80::7fc4:3bc2:a802:4a62,ff02::fb,MDNS,105,"Standard query 0x0000 PTR _microsoft_mcc._tcp.local, ""QM"" question"
+1046,27.635664,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.47? Tell 10.12.32.1
+1047,27.762397,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,143,"Standard query 0x0000 ANY Android.local, ""QM"" question ANY Android.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+1048,27.762601,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.222? Tell 10.12.63.254
+1049,27.856866,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+1050,27.950663,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.49.251? Tell 10.12.63.254
+1051,27.950723,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.52.76? Tell 10.12.63.254
+1052,27.950733,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,143,"Standard query 0x0000 ANY Android.local, ""QM"" question ANY Android.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+1053,28.044503,CyberTAN_ce:63:13,Broadcast,ARP,56,Who has 10.12.51.102? Tell 10.12.34.41
+1054,28.044532,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+1055,28.147151,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.35.243? Tell 10.12.63.254
+1056,28.147179,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.89? Tell 10.12.32.1
+1057,28.249409,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.40? Tell 10.12.32.1
+1058,28.249522,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.134? Tell 10.12.32.1
+1059,28.249535,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.210? Tell 10.12.32.1
+1060,28.249544,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.225? Tell 10.12.32.1
+1061,28.249553,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.3? Tell 10.12.32.1
+1062,28.249563,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,145,"Standard query 0x0000 ANY Android-2.local, ""QM"" question ANY Android-2.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+1063,28.249777,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.167? Tell 10.12.32.1
+1064,28.251588,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.106? Tell 10.12.32.1
+1065,28.251603,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+1066,28.251609,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+1067,28.251613,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.255? Tell 10.12.32.1
+1068,28.253711,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+1069,28.253721,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+1070,28.353766,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.63.254
+1071,28.3538,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+1072,28.454151,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.223? Tell 10.12.32.1
+1073,28.58569,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,145,"Standard query 0x0000 ANY Android-2.local, ""QM"" question ANY Android-2.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+1074,28.658733,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.63.254
+1075,28.65877,CyberTAN_ce:63:13,Broadcast,ARP,56,Who has 10.12.51.102? Tell 10.12.34.41
+1076,28.658779,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+1077,28.761565,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.222? Tell 10.12.63.254
+1078,28.864998,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+1079,28.865026,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,145,"Standard query 0x0000 ANY Android-2.local, ""QM"" question ANY Android-2.local, ""QM"" question A 10.12.35.98 AAAA fe80::c8dd:b2ff:fe91:8fb2"
+1080,28.865133,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.73? Tell 10.12.32.1
+1081,28.966871,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1082,28.96696,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1083,29.068591,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,416,"Standard query response 0x0000 SRV, cache flush 0 0 56666 Android-2.local PTR, cache flush Android-2.local PTR, cache flush Android-2.local A, cache flush 10.12.35.98 AAAA, cache flush fe80::c8dd:b2ff:fe91:8fb2 NSEC, cache flush {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local NSEC, cache flush 98.35.12.10.in-addr.arpa NSEC, cache flush 2.B.F.8.1.9.E.F.F.F.2.B.D.D.8.C.0.0.0.0.0.0.0.0.0.0.0.0.0.8.E.F.ip6.arpa NSEC, cache flush Android-2.local"
+1084,29.068771,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+1085,29.068787,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+1086,29.068796,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.249? Tell 10.12.32.1
+1087,29.068804,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+1088,29.170645,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+1089,29.272792,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.8? Tell 10.12.32.1
+1090,29.272821,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.36? Tell 10.12.32.1
+1091,29.272831,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.47? Tell 10.12.32.1
+1092,29.272838,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.89? Tell 10.12.32.1
+1093,29.272847,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.30? Tell 10.12.32.1
+1094,29.272854,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.32.1
+1095,29.272861,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.238? Tell 10.12.32.1
+1096,29.274922,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.147? Tell 10.12.32.1
+1097,29.274938,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.50.151? Tell 10.12.32.1
+1098,29.274947,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.23? Tell 10.12.32.1
+1099,29.274954,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.53.205? Tell 10.12.32.1
+1100,29.375043,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.222? Tell 10.12.32.1
+1101,29.375075,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.49.181? Tell 10.12.32.1
+1102,29.375086,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.36.188? Tell 10.12.32.1
+1103,29.375094,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.63.254
+1104,29.375101,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.244? Tell 10.12.63.254
+1105,29.403856,10.12.35.246,142.250.199.174,TCP,55,52404  >  443 [ACK] Seq=1 Ack=1 Win=508 Len=1 [TCP segment of a reassembled PDU]
+1106,29.449213,142.250.199.174,10.12.35.246,TCP,66,443  >  52404 [ACK] Seq=1 Ack=2 Win=265 Len=0 SLE=1 SRE=2
+1107,29.498599,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.63.254
+1108,29.597647,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.200? Tell 10.12.32.1
+1109,29.597675,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.5? Tell 10.12.32.1
+1110,29.653607,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+1111,29.667811,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+1112,29.682153,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.63.254
+1113,29.682179,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.2? Tell 10.12.32.1
+1114,29.682188,CyberTAN_ce:63:13,Broadcast,ARP,56,Who has 10.12.51.102? Tell 10.12.34.41
+1115,29.683277,10.12.35.246,224.77.77.77,UDP,148,12177  >  12177 Len=106
+1116,29.713909,10.12.35.246,142.250.192.34,TCP,55,52460  >  443 [ACK] Seq=1 Ack=1 Win=507 Len=1 [TCP segment of a reassembled PDU]
+1117,29.752428,10.12.35.246,142.250.192.34,TLSv1.2,125,Application Data
+1118,29.752479,10.12.35.246,142.250.192.34,TLSv1.2,93,Application Data
+1119,29.754907,10.12.35.246,172.17.18.2,DNS,78,Standard query 0x73b3 A wpad.amritanet.edu
+1120,29.784633,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.36.222? Tell 10.12.63.254
+1121,29.784712,fe80::90e6:2bff:fec5:cd4b,ff02::fb,MDNS,107,"Standard query 0x0000 PTR _spotify-connect._tcp.local, ""QM"" question"
+1122,29.784859,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.202? Tell 10.12.63.254
+1123,29.7876,142.250.192.34,10.12.35.246,TCP,66,443  >  52460 [ACK] Seq=1 Ack=2 Win=263 Len=0 SLE=1 SRE=2
+1124,29.795559,172.17.18.2,10.12.35.246,DNS,146,Standard query response 0x73b3 No such name A wpad.amritanet.edu SOA prithvi.amritanet.edu
+1125,29.859058,142.250.192.34,10.12.35.246,TCP,60,443  >  52459 [ACK] Seq=1 Ack=72 Win=271 Len=0
+1126,29.859058,142.250.192.34,10.12.35.246,TCP,60,443  >  52459 [ACK] Seq=1 Ack=111 Win=271 Len=0
+1127,29.859058,142.250.192.34,10.12.35.246,TLSv1.2,93,Application Data
+1128,29.887469,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1129,29.890269,142.250.192.34,10.12.35.246,TLSv1.2,129,Application Data
+1130,29.89031,10.12.35.246,142.250.192.34,TCP,54,52459  >  443 [ACK] Seq=111 Ack=115 Win=509 Len=0
+1131,29.891428,10.12.35.246,142.250.192.34,TLSv1.2,89,Application Data
+1132,29.891624,10.12.35.246,142.250.192.34,TLSv1.2,132,Application Data
+1133,29.895918,142.250.192.34,10.12.35.246,TLSv1.2,85,Application Data
+1134,29.895918,142.250.192.34,10.12.35.246,TLSv1.2,93,Application Data
+1135,29.895957,10.12.35.246,142.250.192.34,TCP,54,52459  >  443 [ACK] Seq=224 Ack=185 Win=509 Len=0
+1136,29.896085,10.12.35.246,142.250.192.34,TLSv1.2,93,Application Data
+1137,29.961699,142.250.192.34,10.12.35.246,TCP,60,443  >  52459 [ACK] Seq=185 Ack=224 Win=271 Len=0
+1138,29.965776,142.250.192.34,10.12.35.246,TCP,60,443  >  52459 [ACK] Seq=185 Ack=263 Win=271 Len=0
+1139,29.989877,::,ff02::1:3,ICMPv6,90,Multicast Listener Query
+1140,29.989971,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.87? Tell 10.12.32.1
+1141,30.034238,142.250.192.34,10.12.35.246,TLSv1.2,127,Application Data
+1142,30.034238,142.250.192.34,10.12.35.246,TLSv1.2,402,Application Data
+1143,30.034371,10.12.35.246,142.250.192.34,TCP,54,52459  >  443 [ACK] Seq=263 Ack=606 Win=507 Len=0
+1144,30.035186,10.12.35.246,142.250.192.34,TLSv1.2,89,Application Data
+1145,30.038317,142.250.192.34,10.12.35.246,TLSv1.2,239,Application Data
+1146,30.038345,10.12.35.246,142.250.192.34,TCP,54,52459  >  443 [ACK] Seq=298 Ack=791 Win=512 Len=0
+1147,30.039866,10.12.35.246,142.250.199.174,TCP,55,52405  >  443 [ACK] Seq=1 Ack=1 Win=512 Len=1 [TCP segment of a reassembled PDU]
+1148,30.042653,142.250.192.34,10.12.35.246,TLSv1.2,93,Application Data
+1149,30.04269,10.12.35.246,142.250.192.34,TCP,54,52459  >  443 [ACK] Seq=298 Ack=830 Win=512 Len=0
+1150,30.042795,10.12.35.246,142.250.192.34,TLSv1.2,93,Application Data
+1151,30.05915,10.12.35.246,142.250.182.206,TLSv1.2,612,Application Data
+1152,30.059201,10.12.35.246,142.250.182.206,TCP,1466,52387  >  443 [ACK] Seq=6457 Ack=316 Win=257 Len=1412 [TCP segment of a reassembled PDU]
+1153,30.059201,10.12.35.246,142.250.182.206,TCP,1466,52387  >  443 [ACK] Seq=7869 Ack=316 Win=257 Len=1412 [TCP segment of a reassembled PDU]
+1154,30.059201,10.12.35.246,142.250.182.206,TLSv1.2,1236,Application Data
+1155,30.097906,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.32.1
+1156,30.097934,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.63.254
+1157,30.097943,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.12? Tell 10.12.63.254
+1158,30.09795,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.171? Tell 10.12.63.254
+1159,30.111138,142.250.192.34,10.12.35.246,TCP,60,443  >  52459 [ACK] Seq=830 Ack=298 Win=271 Len=0
+1160,30.111138,142.250.199.174,10.12.35.246,TCP,66,443  >  52405 [ACK] Seq=1 Ack=2 Win=283 Len=0 SLE=1 SRE=2
+1161,30.111138,142.250.192.34,10.12.35.246,TCP,60,443  >  52459 [ACK] Seq=830 Ack=337 Win=271 Len=0
+1162,30.114775,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=316 Ack=6457 Win=659 Len=0
+1163,30.122729,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=316 Ack=7869 Win=670 Len=0
+1164,30.133218,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=316 Ack=9281 Win=681 Len=0
+1165,30.133253,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=316 Ack=10463 Win=692 Len=0
+1166,30.193925,fe80::c8dd:b2ff:fe91:8fb2,ff02::fb,MDNS,416,"Standard query response 0x0000 SRV, cache flush 0 0 56666 Android-2.local PTR, cache flush Android-2.local PTR, cache flush Android-2.local A, cache flush 10.12.35.98 AAAA, cache flush fe80::c8dd:b2ff:fe91:8fb2 NSEC, cache flush {""nm"":""Keerthana Redmi"",""as"":""[8194]"",""ip"":""98""}._mi-connect._udp.local NSEC, cache flush 98.35.12.10.in-addr.arpa NSEC, cache flush 2.B.F.8.1.9.E.F.F.F.2.B.D.D.8.C.0.0.0.0.0.0.0.0.0.0.0.0.0.8.E.F.ip6.arpa NSEC, cache flush Android-2.local"
+1167,30.194077,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.112? Tell 10.12.32.1
+1168,30.194133,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.13? Tell 10.12.32.1
+1169,30.194141,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.255? Tell 10.12.32.1
+1170,30.19575,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.94? Tell 10.12.32.1
+1171,30.195768,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.52.114? Tell 10.12.32.1
+1172,30.195777,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.37.223? Tell 10.12.32.1
+1173,30.195785,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.38.86? Tell 10.12.32.1
+1174,30.195792,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.35.48? Tell 10.12.32.1
+1175,30.195799,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.54.73? Tell 10.12.32.1
+1176,30.195806,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.34.249? Tell 10.12.32.1
+1177,30.195814,IETF-VRRP-VRID_fe,Broadcast,ARP,60,Who has 10.12.51.101? Tell 10.12.32.1
+1178,30.233853,142.250.182.206,10.12.35.246,TLSv1.2,598,Application Data
+1179,30.233853,142.250.182.206,10.12.35.246,TLSv1.2,1211,Application Data
+1180,30.233908,10.12.35.246,142.250.182.206,TCP,54,52387  >  443 [ACK] Seq=10463 Ack=2017 Win=259 Len=0
+1181,30.23627,10.12.35.246,142.250.182.206,TLSv1.2,89,Application Data
+1182,30.29017,142.250.182.206,10.12.35.246,TLSv1.2,85,Application Data
+1183,30.296048,142.250.182.206,10.12.35.246,TLSv1.2,93,Application Data
+1184,30.29609,10.12.35.246,142.250.182.206,TCP,54,52387  >  443 [ACK] Seq=10498 Ack=2087 Win=258 Len=0
+1185,30.296202,10.12.35.246,142.250.182.206,TLSv1.2,93,Application Data
+1186,30.336247,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=2087 Ack=10498 Win=692 Len=0
+1187,30.395291,142.250.182.206,10.12.35.246,TCP,60,443  >  52387 [ACK] Seq=2087 Ack=10537 Win=692 Len=0
+1188,30.398429,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.37.204? Tell 10.12.63.254
+1189,30.500848,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.38.16? Tell 10.12.63.254
+1190,30.730731,HewlettP_81:05:00,Broadcast,ARP,60,Who has 10.12.51.188? Tell 10.12.63.254
